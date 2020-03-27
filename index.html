@@ -27,8 +27,20 @@
                 <th>Contact No.</th>
                 <!--<th>Pharmacist Name</th>-->
                 <!--<th>Owner</th>-->
-                <th>Whatsapp No</th>
-                <th>Viber No</th>
+                <th>Whatsapp No.</th>
+                <th>Viber No.</th>
+                <!--<th>E mail</th>-->
+            </tr>
+            <tr>
+                <th>District</th>
+                <th>MOH Area</th>
+                <th>Name of the Pharmacy</th>
+                <th>Address</th>
+                <th>Contact No.</th>
+                <!--<th>Pharmacist Name</th>-->
+                <!--<th>Owner</th>-->
+                <th>Whatsapp No.</th>
+                <th>Viber No.</th>
                 <!--<th>E mail</th>-->
             </tr>
         </thead>
@@ -41,8 +53,8 @@
                 <th>Contact No.</th>
                 <!--<th>Pharmacist Name</th>-->
                 <!--<th>Owner</th>-->
-                <th>Whatsapp No</th>
-                <th>Viber No</th>
+                <th>Whatsapp No.</th>
+                <th>Viber No.</th>
                 <!--<th>E mail</th>-->
             </tr>
         </tfoot>
@@ -59,28 +71,40 @@
 <script>
 $(document).ready(function() {
 
-    $('#example tfoot th').each( function () {
+    /*$('#example tfoot th').each( function () {
         var title = $(this).text();
         $(this).html( '<input type="text" placeholder="Search '+title+'" />' );
+    } );*/
+
+    $('#example thead tr:eq(1) th').each( function () {
+        var title = $(this).text();
+        $(this).html( '<input type="text" placeholder="Search '+title+'" class="column_search" />' );
     } );
 
     var table = $('#example').DataTable( {
         "ajax": {url:"convertcsv.json",dataSrc:""},
         "crossDomain": true,
             "dataType": "json",
+            orderCellsTop: true,
         "columns": [
             { "data": "C" },
             { "data": "D" },
             { "data": "E" },
             { "data": "F" },
-            { "data": "G" },
+            { "data": "G" ,render: function ( val ) {
+                return '<a href="tel:'+ val +'">' + val + '</a>';
+            }},
             //{ "data": "H" },
             //{ "data": "I" },
-            { "data": "J" },
-            { "data": "K" },
+            { "data": "J" ,render: function ( val ) {
+                return '<a href="tel:'+ val +'">' + val + '</a>';
+            }},
+            { "data": "K" ,render: function ( val ) {
+                return '<a href="tel:'+ val +'">' + val + '</a>';
+            }},
             //{ "data": "L" },
         ],
-        initComplete: function () {
+        /*initComplete: function () {
                      this.api().columns([0,1]).every(function () {
                          var column = this;
                          $(column.header()).append("<br>")
@@ -99,11 +123,11 @@ $(document).ready(function() {
                              select.append('<option value="' + d + '">' + d + '</option>')
                 } );
             } );
-        }
+        }*/
     } );
 
     // Apply the search
-    table.columns().every( function () {
+    /*table.columns().every( function () {
         var that = this;
  
         $( 'input', this.footer() ).on( 'keyup change clear', function () {
@@ -113,7 +137,15 @@ $(document).ready(function() {
                     .draw();
             }
         } );
-    } );
+    } );*/
+
+    $( '#example thead'  ).on( 'keyup', ".column_search",function () {
+   
+   table
+       .column( $(this).parent().index() )
+       .search( this.value )
+       .draw();
+} );
 
 
 } );
