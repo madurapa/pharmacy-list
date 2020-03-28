@@ -111,19 +111,34 @@
                 {"data": "F"},
                 {
                     "data": "G", render: function (val) {
-                        return '<a href="tel:' + val + '">' + val + '</a>';
+                        val = val.split('\n');
+                        var html = '';
+                        val.forEach(function (item, index) {
+                            html += '<a href="tel:' + item.trim() + '">' + item.trim() + '</a> ';
+                        });
+                        return html;
                     }
                 },
                 //{ "data": "H" },
                 //{ "data": "I" },
                 {
                     "data": "J", render: function (val) {
-                        return '<a href="tel:' + val + '">' + val + '</a>';
+                        val = val.split('\n');
+                        var html = '';
+                        val.forEach(function (item, index) {
+                            html += '<a href="tel:' + item.trim() + '">' + item.trim() + '</a> ';
+                        });
+                        return html;
                     }
                 },
                 {
                     "data": "K", render: function (val) {
-                        return '<a href="tel:' + val + '">' + val + '</a>';
+                        val = val.split('\n');
+                        var html = '';
+                        val.forEach(function (item, index) {
+                            html += '<a href="tel:' + item.trim() + '">' + item.trim() + '</a> ';
+                        });
+                        return html;
                     }
                 },
                 //{ "data": "L" },
