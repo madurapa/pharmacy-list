@@ -101,47 +101,56 @@
         });
 
         var table = $('#example').DataTable({
-            "ajax": {url: "convertcsv.json", dataSrc: ""},
+            "ajax": {url: "output.json", dataSrc: ""},
             "crossDomain": true,
             "dataType": "json",
             orderCellsTop: true,
             responsive: true,
             "columns": [
-                {"data": "C"},
-                {"data": "D"},
-                {"data": "E"},
-                {"data": "F"},
+                {"data": "District", "defaultContent": "N/A"},
+                {"data": "MOH Area", "defaultContent": "N/A"},
+                {"data": "Name of the Pharmacy", "defaultContent": "N/A"},
+                {"data": "Address", "defaultContent": "N/A"},
                 {
-                    "data": "G", render: function (val) {
-                        val = val.split('\n');
+                    "data": "Contact No", render: function (val) {
+                        if (val === undefined)
+                            return '';
+                        val = val.split(',');
                         var html = '';
                         val.forEach(function (item, index) {
                             html += '<a href="tel:' + item.trim() + '">' + item.trim() + '</a> ';
                         });
                         return html;
-                    }
+                    },
+                    "defaultContent": "N/A"
                 },
                 //{ "data": "H" },
                 //{ "data": "I" },
                 {
-                    "data": "J", render: function (val) {
-                        val = val.split('\n');
+                    "data": "Whatsapp No", render: function (val) {
+                        if (val === undefined)
+                            return '';
+                        val = val.split(',');
                         var html = '';
                         val.forEach(function (item, index) {
                             html += '<a href="tel:' + item.trim() + '">' + item.trim() + '</a> ';
                         });
                         return html;
-                    }
+                    },
+                    "defaultContent": "N/A"
                 },
                 {
-                    "data": "K", render: function (val) {
-                        val = val.split('\n');
+                    "data": "Viber No", render: function (val) {
+                        if (val === undefined)
+                            return '';
+                        val = val.split(',');
                         var html = '';
                         val.forEach(function (item, index) {
                             html += '<a href="tel:' + item.trim() + '">' + item.trim() + '</a> ';
                         });
                         return html;
-                    }
+                    },
+                    "defaultContent": "N/A"
                 },
                 //{ "data": "L" },
             ],
