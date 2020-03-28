@@ -78,13 +78,13 @@
         <tr>
             <th>District</th>
             <th>MOH Area</th>
-            <th class="d-none d-sm-none">Name of the Pharmacy</th>
-            <th class="d-none d-sm-none">Address</th>
-            <th class="d-none d-sm-none">Contact No.</th>
+            <th>Name of the Pharmacy</th>
+            <th>Address</th>
+            <th>Contact No.</th>
             <!--<th>Pharmacist Name</th>-->
             <!--<th>Owner</th>-->
-            <th class="d-none d-sm-none">Whatsapp No.</th>
-            <th class="d-none d-sm-none">Viber No.</th>
+            <th>Whatsapp No.</th>
+            <th>Viber No.</th>
             <!--<th>E mail</th>-->
         </tr>
         </thead>
@@ -112,7 +112,7 @@
         $('#example thead tr:eq(1) th').each(function () {
             var title = $(this).text();
             if ($(window).width() < 700 && i > 1) {
-                return false;
+                $(this).hide();
             }
             $(this).html('<input type="text" placeholder="Search ' + title + '" class="column_search" />');
             i++;
