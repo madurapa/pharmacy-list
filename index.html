@@ -5,7 +5,11 @@
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-18587883-2"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
         gtag('js', new Date());
 
         gtag('config', 'UA-18587883-2');
@@ -50,7 +54,7 @@
                         <li>අන්තර්ජාලය හරහා හෝ බෙහෙත් ගෙදරට ගෙන දුන් පසු මුදල් ගෙවන්න.</li>
                     </ol>
                     <p>වැඩි විස්තර සඳහා :
-                        <a href="http://www.health.gov.lk/moh_final/english/others.php?pid=209" target="_blank">http://www.health.gov.lk/moh_final/english/others.php?pid=209</a>
+                        <a href="http://www.health.gov.lk/moh_final/english/others.php?pid=209" target="_blank">health.gov.lk</a>
                     </p>
                 </div>
             </div>
@@ -74,13 +78,13 @@
         <tr>
             <th>District</th>
             <th>MOH Area</th>
-            <th>Name of the Pharmacy</th>
-            <th>Address</th>
-            <th>Contact No.</th>
+            <th class="d-none d-sm-none">Name of the Pharmacy</th>
+            <th class="d-none d-sm-none">Address</th>
+            <th class="d-none d-sm-none">Contact No.</th>
             <!--<th>Pharmacist Name</th>-->
             <!--<th>Owner</th>-->
-            <th>Whatsapp No.</th>
-            <th>Viber No.</th>
+            <th class="d-none d-sm-none">Whatsapp No.</th>
+            <th class="d-none d-sm-none">Viber No.</th>
             <!--<th>E mail</th>-->
         </tr>
         </thead>
@@ -104,10 +108,14 @@
             var title = $(this).text();
             $(this).html( '<input type="text" placeholder="Search '+title+'" />' );
         } );*/
-
+        var i = 0;
         $('#example thead tr:eq(1) th').each(function () {
             var title = $(this).text();
+            if ($(window).width() < 700 && i > 1) {
+                return false;
+            }
             $(this).html('<input type="text" placeholder="Search ' + title + '" class="column_search" />');
+            i++;
         });
 
         var table = $('#example').DataTable({
