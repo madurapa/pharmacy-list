@@ -113,14 +113,7 @@
                 {"data": "Address", "defaultContent": "N/A"},
                 {
                     "data": "Contact No", render: function (val) {
-                        if (val === undefined)
-                            return '';
-                        val = val.split(',');
-                        var html = '';
-                        val.forEach(function (item, index) {
-                            html += '<a href="tel:' + item.trim() + '">' + item.trim() + '</a> ';
-                        });
-                        return html;
+                        return renderCel(val);
                     },
                     "defaultContent": "N/A"
                 },
@@ -128,27 +121,13 @@
                 //{ "data": "I" },
                 {
                     "data": "Whatsapp No", render: function (val) {
-                        if (val === undefined)
-                            return '';
-                        val = val.split(',');
-                        var html = '';
-                        val.forEach(function (item, index) {
-                            html += '<a href="tel:' + item.trim() + '">' + item.trim() + '</a> ';
-                        });
-                        return html;
+                        return renderCel(val);
                     },
                     "defaultContent": "N/A"
                 },
                 {
                     "data": "Viber No", render: function (val) {
-                        if (val === undefined)
-                            return '';
-                        val = val.split(',');
-                        var html = '';
-                        val.forEach(function (item, index) {
-                            html += '<a href="tel:' + item.trim() + '">' + item.trim() + '</a> ';
-                        });
-                        return html;
+                        return renderCel(val);
                     },
                     "defaultContent": "N/A"
                 },
@@ -175,6 +154,21 @@
                 } );
             }*/
         });
+
+        function renderCel(val) {
+            if (val === undefined)
+                return '';
+            val = val.split(',');
+            var html = '';
+            val.forEach(function (item, index) {
+                if (val == 'N/A') {
+                    html += 'N/A';
+                } else {
+                    html += '<a href="tel:' + item.trim() + '">' + item.trim() + '</a> ';
+                }
+            });
+            return html;
+        }
 
         // Apply the search
         /*table.columns().every( function () {
