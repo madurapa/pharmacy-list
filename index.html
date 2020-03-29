@@ -62,7 +62,7 @@
         <tr>
             <th>District</th>
             <th>City</th>
-            <th>Pharmacy Name</th>
+            <th>Pharmacy</th>
             <th>Address</th>
             <th>Phone</th>
             <th>WhatsApp</th>
@@ -71,7 +71,7 @@
         <tr id="searchColumns">
             <th>District</th>
             <th>City</th>
-            <th>Pharmacy Name</th>
+            <th>Pharmacy</th>
             <th>Address</th>
             <th>Phone</th>
             <th>WhatsApp</th>
@@ -133,7 +133,7 @@
             initComplete: function () {
                 this.api().columns([0, 1]).every(function () {
                     var column = this;
-                    var select = $('<select class="custom-select custom-select-sm"><option value=""></option></select>')
+                    var select = $('<select class="custom-select custom-select-sm"><option value="">Select a ' + this.header().textContent + '</option></select>')
                         .appendTo($("#example thead tr:eq(1) th").eq(column.index()).empty())
                         .on('change', function () {
                             var val = $.fn.dataTable.util.escapeRegex(
