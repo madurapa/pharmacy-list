@@ -166,6 +166,26 @@
                         select.append('<option value="' + d + '">' + d + '</option>')
            } );
        } );*/
+                this.api().columns([0,1]).every( function () {
+                    var column = this;
+                    var select = $('<select class="custom-select custom-select-sm"><option value=""></option></select>')
+                        .appendTo( $("#example thead tr:eq(1) th").eq(column.index()).empty() )
+                        .on( 'change', function () {
+                            var val = $.fn.dataTable.util.escapeRegex(
+                                $(this).val()
+                            );
+
+                            column
+                                .search( val ? '^'+val+'$' : '', true, false )
+                                .draw();
+                        } );
+
+                    column.data().unique().sort().each( function ( d, j ) {
+                        select.append( '<option value="'+d+'">'+d+'</option>' );
+                    } );
+                } );
+
+
                 $('#searchColumns th').each(function (index) {
                     $("#searchColumns th:eq(" + index + ")").attr("style", $("#searchColumns").prev().find("th:eq(" + index + ")").attr("style"));
                 });
