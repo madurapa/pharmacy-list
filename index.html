@@ -75,7 +75,7 @@
             <th>Viber No.</th>
             <!--<th>E mail</th>-->
         </tr>
-        <tr>
+        <tr id="searchColumns">
             <th>District</th>
             <th>MOH Area</th>
             <th>Name of the Pharmacy</th>
@@ -108,14 +108,10 @@
             var title = $(this).text();
             $(this).html( '<input type="text" placeholder="Search '+title+'" />' );
         } );*/
-        var i = 0;
+
         $('#example thead tr:eq(1) th').each(function () {
             var title = $(this).text();
-            if ($(window).width() < 700 && i > 1) {
-                $(this).hide();
-            }
             $(this).html('<input type="text" placeholder="Search ' + title + '" class="column_search" />');
-            i++;
         });
 
         var table = $('#example').DataTable({
@@ -209,6 +205,13 @@
                 .column($(this).parent().index())
                 .search(this.value)
                 .draw();
+        });
+
+        table.on('responsive-resize', function (e, datatable, columns) {
+            var count = columns.reduce(function (a, b, index) {
+                $("#searchColumns th:eq(" + index + ")").attr("style", $("#searchColumns").prev().find("th:eq(" + index + ")").attr("style"));
+                return b === false ? a + 1 : a;
+            }, 0);
         });
 
 
