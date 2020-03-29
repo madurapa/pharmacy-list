@@ -207,14 +207,16 @@
                 .draw();
         });
 
+        table.on('responsive-resize', function (e, datatable, columns) {
+            var count = columns.reduce(function (a, b, index) {
+                $("#searchColumns th:eq(" + index + ")").attr("style", $("#searchColumns").prev().find("th:eq(" + index + ")").attr("style"));
+                return b === false ? a + 1 : a;
+            }, 0);
+        });
+
         setTimeout(
             function () {
-                table.on('responsive-resize', function (e, datatable, columns) {
-                    var count = columns.reduce(function (a, b, index) {
-                        $("#searchColumns th:eq(" + index + ")").attr("style", $("#searchColumns").prev().find("th:eq(" + index + ")").attr("style"));
-                        return b === false ? a + 1 : a;
-                    }, 0);
-                });
+                $(window).trigger('resize');
             }, 500);
 
 
