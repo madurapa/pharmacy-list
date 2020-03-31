@@ -1606,8 +1606,8 @@
 		"Contact No":"652051151", 
 		"Pharmacist Name":"Mr.R. Sivakumar", 
 		"Owner":"S. Jeelan", 
-		"Whatsapp No":"702342384", 
-		"Viber No":"702342384", 
+		"Whatsapp No":"777003668", 
+		"Viber No":"777003668", 
 		"E mail":"sksiranjeevinkd@gmail.com"
 	},
 	{
@@ -1918,8 +1918,8 @@
 		"Contact No":"362234337", 
 		"Pharmacist Name":"Ajith D Nishantha", 
 		"Owner":"SPG Nishantha", 
-		"Whatsapp No":"777586628", 
-		"Viber No":"777586628", 
+		"Whatsapp No":"760741668", 
+		"Viber No":"760741668", 
 		"E mail":"N/A"
 	},
 	{
@@ -3426,7 +3426,7 @@
 		"Contact No":"N/A", 
 		"Pharmacist Name":"Chamara", 
 		"Owner":"Chamara Shasan", 
-		"Whatsapp No":"718690940", 
+		"Whatsapp No":"71890940", 
 		"Viber No":"718690940", 
 		"E mail":"N/A"
 	},
@@ -3631,7 +3631,7 @@
 		"MOH Area":"Kolonnawa", 
 		"Name of the Pharmacy":"Flemingo Pharmcy", 
 		"Address":"55, Kollonnawa Road, Gothatuwa New Town", 
-		"Contact No":"0112410870", 
+		"Contact No":"112410870", 
 		"Pharmacist Name":"K.D. Priyashantha", 
 		"Owner":"J.J. Gurusinghe", 
 		"Whatsapp No":"718605307", 
@@ -3842,8 +3842,8 @@
 		"Contact No":"114019677", 
 		"Pharmacist Name":"WRA Malkanthi", 
 		"Owner":"SPG Nishantha", 
-		"Whatsapp No":"777586628", 
-		"Viber No":"777586628", 
+		"Whatsapp No":"774296628", 
+		"Viber No":"N/A", 
 		"E mail":"gaganadis99@yahoo.com"
 	},
 	{
@@ -8982,6 +8982,19 @@
 		"E mail":"N/A"
 	},
 	{
+		"No":"1245", 
+		"District":"Kalutara", 
+		"MOH Area":"Beruwala", 
+		"Name of the Pharmacy":"New Shan pharmacy", 
+		"Address":"97/c,Galle Rd,Payagala Sourth", 
+		"Contact No":"715235598", 
+		"Pharmacist Name":"Gts Gulawita", 
+		"Owner":"Gts Gulawita", 
+		"Whatsapp No":"715235598", 
+		"Viber No":"N/A", 
+		"E mail":"N/A"
+	},
+	{
 		"No":"622", 
 		"District":"Kalutara", 
 		"MOH Area":"Beruwala", 
@@ -9069,6 +9082,19 @@
 		"Pharmacist Name":"N/A", 
 		"Owner":"N/A", 
 		"Whatsapp No":"N/A", 
+		"Viber No":"N/A", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"1247", 
+		"District":"Kalutara", 
+		"MOH Area":"Bulathsinhala", 
+		"Name of the Pharmacy":"Samarasingha Pharmacy", 
+		"Address":"N/A", 
+		"Contact No":"718045474", 
+		"Pharmacist Name":"N/A", 
+		"Owner":"N/A", 
+		"Whatsapp No":"718045474", 
 		"Viber No":"N/A", 
 		"E mail":"N/A"
 	},
@@ -9268,6 +9294,19 @@
 		"E mail":"N/A"
 	},
 	{
+		"No":"1252", 
+		"District":"Kalutara", 
+		"MOH Area":"Ingiriya", 
+		"Name of the Pharmacy":"Jagath Pharmacy", 
+		"Address":"Rathnapura rd Ingiriya", 
+		"Contact No":"770809117", 
+		"Pharmacist Name":"N/A", 
+		"Owner":"N/A", 
+		"Whatsapp No":"770809117", 
+		"Viber No":"N/A", 
+		"E mail":"N/A"
+	},
+	{
 		"No":"639", 
 		"District":"Kalutara", 
 		"MOH Area":"Ingiriya", 
@@ -9303,6 +9342,19 @@
 		"Pharmacist Name":"N/A", 
 		"Owner":"D.P.N. Mallikarachchi", 
 		"Whatsapp No":"N/A", 
+		"Viber No":"N/A", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"1254", 
+		"District":"Kalutara", 
+		"MOH Area":"Kalutara", 
+		"Name of the Pharmacy":"Hilife Pharamacy", 
+		"Address":"Kalutara", 
+		"Contact No":"718189779", 
+		"Pharmacist Name":"N/A", 
+		"Owner":"N/A", 
+		"Whatsapp No":"718189779", 
 		"Viber No":"N/A", 
 		"E mail":"N/A"
 	},
@@ -9450,6 +9502,32 @@
 		"E mail":"N/A"
 	},
 	{
+		"No":"1256", 
+		"District":"Kalutara", 
+		"MOH Area":"Madirawela", 
+		"Name of the Pharmacy":"M S Pharmacy", 
+		"Address":"N/A", 
+		"Contact No":"711906659", 
+		"Pharmacist Name":"N/A", 
+		"Owner":"N/A", 
+		"Whatsapp No":"711906659", 
+		"Viber No":"N/A", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"1257", 
+		"District":"Kalutara", 
+		"MOH Area":"Madirawela", 
+		"Name of the Pharmacy":"S T S Pharmacy", 
+		"Address":"warakagoda", 
+		"Contact No":"715406598", 
+		"Pharmacist Name":"N/A", 
+		"Owner":"N/A", 
+		"Whatsapp No":"715406598", 
+		"Viber No":"N/A", 
+		"E mail":"N/A"
+	},
+	{
 		"No":"1258", 
 		"District":"Kalutara", 
 		"MOH Area":"Mathugama", 
@@ -9524,6 +9602,32 @@
 		"Pharmacist Name":"P.S.R. Rodrigo", 
 		"Owner":"P.S.R. Rodrigo", 
 		"Whatsapp No":"714906751", 
+		"Viber No":"N/A", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"1260", 
+		"District":"Kalutara", 
+		"MOH Area":"Millaniya", 
+		"Name of the Pharmacy":"Altulugama Pharmacy", 
+		"Address":"Altulugama", 
+		"Contact No":"772367767", 
+		"Pharmacist Name":"N/A", 
+		"Owner":"N/A", 
+		"Whatsapp No":"772367767", 
+		"Viber No":"N/A", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"1261", 
+		"District":"Kalutara", 
+		"MOH Area":"Millaniya", 
+		"Name of the Pharmacy":"Medi Pharmacy", 
+		"Address":"Millaniya", 
+		"Contact No":"715406598", 
+		"Pharmacist Name":"N/A", 
+		"Owner":"N/A", 
+		"Whatsapp No":"715406598", 
 		"Viber No":"N/A", 
 		"E mail":"N/A"
 	},
@@ -9654,6 +9758,19 @@
 		"Pharmacist Name":"A.H.T.D. Gunawardhana", 
 		"Owner":"A.H.T.D. Gunawardhana", 
 		"Whatsapp No":"776111636", 
+		"Viber No":"N/A", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"1262", 
+		"District":"Kalutara", 
+		"MOH Area":"Wadduwa", 
+		"Name of the Pharmacy":"Methma Pharmacy", 
+		"Address":"Moronthuduwa", 
+		"Contact No":"772965661", 
+		"Pharmacist Name":"K. Handapangoda", 
+		"Owner":"K. Handapangoda", 
+		"Whatsapp No":"772965661", 
 		"Viber No":"N/A", 
 		"E mail":"N/A"
 	},
