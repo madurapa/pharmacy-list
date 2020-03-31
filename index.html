@@ -125,7 +125,7 @@
                 },
                 {
                     "data": "Viber No", render: function (val) {
-                        return renderCel(val);
+                        return renderCelViber(val);
                     },
                     "defaultContent": "N/A"
                 },
@@ -180,7 +180,16 @@
             if (val == 'N/A') {
                 html = 'N/A';
             } else {
-                html = '<a href="https://api.whatsapp.com/send?phone=94' + val + '">+94' + val + '</a> ';
+                html = '<a href="https://api.whatsapp.com/send?phone=+94' + val + '">+94' + val + '</a> ';
+            }
+            return html;
+        }
+
+        function renderCelViber(val) {
+            if (val == 'N/A') {
+                html = 'N/A';
+            } else {
+                html = '<a href="viber://add?number=+94' + val + '">+94' + val + '</a> ';
             }
             return html;
         }
