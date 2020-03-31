@@ -119,7 +119,7 @@
                 },
                 {
                     "data": "Whatsapp No", render: function (val) {
-                        return renderCel(val);
+                        return renderCelWhatsApp(val);
                     },
                     "defaultContent": "N/A"
                 },
@@ -172,6 +172,15 @@
                 html = 'N/A';
             } else {
                 html = '<a href="tel:+94' + val + '">+94' + val + '</a> ';
+            }
+            return html;
+        }
+
+        function renderCelWhatsApp(val) {
+            if (val == 'N/A') {
+                html = 'N/A';
+            } else {
+                html = '<a href="https://api.whatsapp.com/send?phone=94' + val + '">+94' + val + '</a> ';
             }
             return html;
         }
