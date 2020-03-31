@@ -1117,6 +1117,19 @@
 		"E mail":"rizvi.aboo@yahoo.com"
 	},
 	{
+		"No":"1341", 
+		"District":"Badulla", 
+		"MOH Area":"Badulla", 
+		"Name of the Pharmacy":"Lanka Chemist", 
+		"Address":"No 70, Dharmadutha Road, Badulla", 
+		"Contact No":"552222132", 
+		"Pharmacist Name":"D.M.Najeewa Disanayaka", 
+		"Owner":"Thissa Aththanayaka", 
+		"Whatsapp No":"717755993", 
+		"Viber No":"717755993", 
+		"E mail":"N/A"
+	},
+	{
 		"No":"79", 
 		"District":"Badulla", 
 		"MOH Area":"Badulla", 
@@ -1286,6 +1299,19 @@
 		"E mail":"N/A"
 	},
 	{
+		"No":"1342", 
+		"District":"Badulla", 
+		"MOH Area":"Ella", 
+		"Name of the Pharmacy":"Lakchana Pharmacy", 
+		"Address":"Badulla Road, Demodara", 
+		"Contact No":"772224322", 
+		"Pharmacist Name":"R.M.U.Chandralal", 
+		"Owner":"H.M.Lakshitha Jayantha", 
+		"Whatsapp No":"772224322", 
+		"Viber No":"772224322", 
+		"E mail":"ljlakshitha85@gmail.com"
+	},
+	{
 		"No":"92", 
 		"District":"Badulla", 
 		"MOH Area":"Ella", 
@@ -1364,6 +1390,19 @@
 		"E mail":"amilaasanka@gmail.com"
 	},
 	{
+		"No":"1343", 
+		"District":"Badulla", 
+		"MOH Area":"Haputale", 
+		"Name of the Pharmacy":"Thilakna Pharmacy", 
+		"Address":"Main Street, Diythalawa", 
+		"Contact No":"716229210", 
+		"Pharmacist Name":"N/A", 
+		"Owner":"HMM Malik", 
+		"Whatsapp No":"716229210", 
+		"Viber No":"N/A", 
+		"E mail":"N/A"
+	},
+	{
 		"No":"98", 
 		"District":"Badulla", 
 		"MOH Area":"Haputhale", 
@@ -1390,6 +1429,19 @@
 		"E mail":"irshadirshy@gmail.com"
 	},
 	{
+		"No":"1344", 
+		"District":"Badulla", 
+		"MOH Area":"Haputhale", 
+		"Name of the Pharmacy":"Suwana Pharmacy", 
+		"Address":"Main Street Diyathalawa", 
+		"Contact No":"718307590", 
+		"Pharmacist Name":"Y.S.H.T.A De Silva", 
+		"Owner":"Santha Hettiarachchi", 
+		"Whatsapp No":"762660879", 
+		"Viber No":"762660879", 
+		"E mail":"bandarachaminda0723@gmail.com"
+	},
+	{
 		"No":"100", 
 		"District":"Badulla", 
 		"MOH Area":"Haputhale", 
@@ -1414,6 +1466,19 @@
 		"Whatsapp No":"773724300", 
 		"Viber No":"773724300", 
 		"E mail":"N/A"
+	},
+	{
+		"No":"1345", 
+		"District":"Badulla", 
+		"MOH Area":"Lunugala", 
+		"Name of the Pharmacy":"Shopital Pharmacy", 
+		"Address":"No 97/1, Main Street, Lunugala", 
+		"Contact No":"718928156", 
+		"Pharmacist Name":"S.Loganadan", 
+		"Owner":"S.Sathyamoorthi", 
+		"Whatsapp No":"719898914", 
+		"Viber No":"719898914", 
+		"E mail":"shopitalpharmacy@gmail.com"
 	},
 	{
 		"No":"102", 
@@ -1520,6 +1585,19 @@
 		"E mail":"pharmacycalistro@gmail.com"
 	},
 	{
+		"No":"1346", 
+		"District":"Badulla", 
+		"MOH Area":"Passara", 
+		"Name of the Pharmacy":"DJ PharmACY", 
+		"Address":"No 219A, Main Street Passara", 
+		"Contact No":"773946904", 
+		"Pharmacist Name":"S.Somesh", 
+		"Owner":"S.Somesh", 
+		"Whatsapp No":"773946904", 
+		"Viber No":"773946904", 
+		"E mail":"someshdj86@gmail.com"
+	},
+	{
 		"No":"110", 
 		"District":"Badulla", 
 		"MOH Area":"Passara", 
@@ -1531,6 +1609,19 @@
 		"Whatsapp No":"770799589", 
 		"Viber No":"770799589", 
 		"E mail":"reegalpharmacy@gmail.com"
+	},
+	{
+		"No":"1347", 
+		"District":"Badulla", 
+		"MOH Area":"Uwa Paranagama", 
+		"Name of the Pharmacy":"Suwan Pharmacy", 
+		"Address":"Lunuwaththa, Uwa Paranagama", 
+		"Contact No":"713680112", 
+		"Pharmacist Name":"S.A.Chandrasiri", 
+		"Owner":"S.A.Chandrasiri", 
+		"Whatsapp No":"713680812", 
+		"Viber No":"713680812", 
+		"E mail":"chandrasirisooriyaarachchi65@gmail.com"
 	},
 	{
 		"No":"111", 
@@ -1557,6 +1648,32 @@
 		"Whatsapp No":"777305343", 
 		"Viber No":"777305343", 
 		"E mail":"lalpharmacywelimada@gmail.com"
+	},
+	{
+		"No":"1348", 
+		"District":"Badulla", 
+		"MOH Area":"Welimada", 
+		"Name of the Pharmacy":"Mahajana Pharmacy", 
+		"Address":"No 83, Nuwaraeliya Road, Welimada", 
+		"Contact No":"572244881", 
+		"Pharmacist Name":"Saskika Lakmal jayasekara", 
+		"Owner":"Mahinda Samarasooriya", 
+		"Whatsapp No":"761258875", 
+		"Viber No":"761258875", 
+		"E mail":"pasidu198@gmail.com"
+	},
+	{
+		"No":"1349", 
+		"District":"Badulla", 
+		"MOH Area":"Welimada", 
+		"Name of the Pharmacy":"New Sumedha Pharamacy", 
+		"Address":"Welimada Road, Boralanda", 
+		"Contact No":"768841718", 
+		"Pharmacist Name":"Ruwani Pradeepika", 
+		"Owner":"Ruwani Pradeepika", 
+		"Whatsapp No":"752829526", 
+		"Viber No":"752829526", 
+		"E mail":"ruwanipradepika111@gmail.com"
 	},
 	{
 		"No":"113", 
@@ -1793,6 +1910,19 @@
 		"E mail":"centralpharmacy@gmail.com"
 	},
 	{
+		"No":"1350", 
+		"District":"Batticaloa", 
+		"MOH Area":"Kattankudy", 
+		"Name of the Pharmacy":"Family pharmacy", 
+		"Address":"25,Main st,Kattankudy", 
+		"Contact No":"777800377", 
+		"Pharmacist Name":"Mrs.Fathima Arusiya", 
+		"Owner":"Mr.A.B.Anoos", 
+		"Whatsapp No":"774004578", 
+		"Viber No":"N/A", 
+		"E mail":"N/A"
+	},
+	{
 		"No":"131", 
 		"District":"Batticaloa", 
 		"MOH Area":"Kattankudy", 
@@ -1845,6 +1975,19 @@
 		"E mail":"Chandrasirikumarage2@gmail.com"
 	},
 	{
+		"No":"1351", 
+		"District":"Batticaloa", 
+		"MOH Area":"Oddamavady", 
+		"Name of the Pharmacy":"MCR pharmacy", 
+		"Address":"Market Road Meeravodai", 
+		"Contact No":"752012888", 
+		"Pharmacist Name":"Mr.I.Muzoufil", 
+		"Owner":"Mr.M.C.M.Rameem", 
+		"Whatsapp No":"752012888", 
+		"Viber No":"752012888", 
+		"E mail":"N/A"
+	},
+	{
 		"No":"135", 
 		"District":"Batticaloa", 
 		"MOH Area":"Oddamavady", 
@@ -1869,6 +2012,19 @@
 		"Whatsapp No":"766689060", 
 		"Viber No":"N/A", 
 		"E mail":"zattrapharmacyodd@gmail.com"
+	},
+	{
+		"No":"1352", 
+		"District":"Batticaloa", 
+		"MOH Area":"Paddipalai", 
+		"Name of the Pharmacy":"Sivan pharmacy", 
+		"Address":"Main st,Kokkaddisolai", 
+		"Contact No":"778900386", 
+		"Pharmacist Name":"Mrs.M.A.C.P.Niloopha", 
+		"Owner":"Mr.K.Nithiyanandam", 
+		"Whatsapp No":"753800386", 
+		"Viber No":"N/A", 
+		"E mail":"N/A"
 	},
 	{
 		"No":"137", 
@@ -2339,6 +2495,19 @@
 		"E mail":"N/A"
 	},
 	{
+		"No":"1353", 
+		"District":"Colombo", 
+		"MOH Area":"CMC", 
+		"Name of the Pharmacy":"J G Pharmacy", 
+		"Address":"389,Elvitigala Mawatha,Colombo 05", 
+		"Contact No":"767323539", 
+		"Pharmacist Name":"Mr B. S. Panvilatenna", 
+		"Owner":"Mr G. Dinesh", 
+		"Whatsapp No":"767323539", 
+		"Viber No":"767323539", 
+		"E mail":"jg.pharmacy001@gmail.com"
+	},
+	{
 		"No":"168", 
 		"District":"Colombo", 
 		"MOH Area":"CMC", 
@@ -2428,6 +2597,19 @@
 		"Whatsapp No":"715731941", 
 		"Viber No":"715731941", 
 		"E mail":"N/A"
+	},
+	{
+		"No":"1354", 
+		"District":"Colombo", 
+		"MOH Area":"CMC", 
+		"Name of the Pharmacy":"Maura Phama", 
+		"Address":"430/3 Maura Place, Havelock Road , Colombo 06", 
+		"Contact No":"716825991", 
+		"Pharmacist Name":"Mrs S.Mohan", 
+		"Owner":"N/A", 
+		"Whatsapp No":"716825991", 
+		"Viber No":"716825991", 
+		"E mail":"bocmohan@gmail.com"
 	},
 	{
 		"No":"175", 
@@ -2662,6 +2844,19 @@
 		"Whatsapp No":"N/A", 
 		"Viber No":"N/A", 
 		"E mail":"N/A"
+	},
+	{
+		"No":"1355", 
+		"District":"Colombo", 
+		"MOH Area":"CMC", 
+		"Name of the Pharmacy":"Sahanco Pharmacy", 
+		"Address":"46,Baseline rd,Colombo 08", 
+		"Contact No":"772443807", 
+		"Pharmacist Name":"S.D.Chandani", 
+		"Owner":"Mr W.D.A.M.Eranga", 
+		"Whatsapp No":"772443807", 
+		"Viber No":"772443807", 
+		"E mail":"chandanihenukadissanayake@gmail.com"
 	},
 	{
 		"No":"193", 
@@ -2989,6 +3184,19 @@
 		"E mail":"N/A"
 	},
 	{
+		"No":"1356", 
+		"District":"Colombo", 
+		"MOH Area":"Dehiwala", 
+		"Name of the Pharmacy":"Ronimco Pharmacy", 
+		"Address":"No. 77C Borupana Rd., Rathmalana", 
+		"Contact No":"112623308", 
+		"Pharmacist Name":"HMSC Herath", 
+		"Owner":"L. Nilmini", 
+		"Whatsapp No":"718585377", 
+		"Viber No":"717095215", 
+		"E mail":"nilmini.rominco@gmail.com"
+	},
+	{
 		"No":"1187", 
 		"District":"Colombo", 
 		"MOH Area":"Dehiwala", 
@@ -3150,7 +3358,7 @@
 		"MOH Area":"Homagama", 
 		"Name of the Pharmacy":"Kmp Pharmacy", 
 		"Address":"159/5 Horana Road,Kottawa", 
-		"Contact No":"0115656994", 
+		"Contact No":"115656994", 
 		"Pharmacist Name":"N/A", 
 		"Owner":"Karunaratna Madawage", 
 		"Whatsapp No":"N/A", 
@@ -3306,7 +3514,7 @@
 		"MOH Area":"Kaduwela", 
 		"Name of the Pharmacy":"Central Pharmacy", 
 		"Address":"No.252/A, Koswatte, Thalangama", 
-		"Contact No":"0112875711", 
+		"Contact No":"112875711", 
 		"Pharmacist Name":"M.B.N. Jayarathne", 
 		"Owner":"J.R.Jayarartne", 
 		"Whatsapp No":"776013903", 
@@ -3332,7 +3540,7 @@
 		"MOH Area":"Kaduwela", 
 		"Name of the Pharmacy":"Medico Holding Pharmacy", 
 		"Address":"366/1,Kaduwela Road,Battaramulla", 
-		"Contact No":"0112885782", 
+		"Contact No":"112885782", 
 		"Pharmacist Name":"N/A", 
 		"Owner":"S.M.Jayawickrama", 
 		"Whatsapp No":"N/A", 
@@ -3384,7 +3592,7 @@
 		"MOH Area":"Kaduwela", 
 		"Name of the Pharmacy":"Okmed Pharmacy", 
 		"Address":"440 A Avissawella Road Kaduwela", 
-		"Contact No":"0719141337", 
+		"Contact No":"719141337", 
 		"Pharmacist Name":"Buddhika Massalage", 
 		"Owner":"Buddhika Massalage", 
 		"Whatsapp No":"719141337", 
@@ -3826,7 +4034,7 @@
 		"MOH Area":"Maharagama", 
 		"Name of the Pharmacy":"City Pharmacy", 
 		"Address":"115/A High Level Road, Maharagama", 
-		"Contact No":"0112837086", 
+		"Contact No":"112837086", 
 		"Pharmacist Name":"A K Kumarapperuma", 
 		"Owner":"A Kumarapperuma", 
 		"Whatsapp No":"773811730", 
@@ -4094,6 +4302,32 @@
 		"E mail":"N/A"
 	},
 	{
+		"No":"1357", 
+		"District":"Colombo", 
+		"MOH Area":"Moratuwa", 
+		"Name of the Pharmacy":"JMS Pharmacy", 
+		"Address":"22,bandaranayake Mawatha,Katubedda.", 
+		"Contact No":"778099415", 
+		"Pharmacist Name":"Ms S.C.Manawadu", 
+		"Owner":"Ms S.C.Manawadu", 
+		"Whatsapp No":"778099415", 
+		"Viber No":"778099415", 
+		"E mail":"jmspharmacy@hotmail.com"
+	},
+	{
+		"No":"1358", 
+		"District":"Colombo", 
+		"MOH Area":"Moratuwa", 
+		"Name of the Pharmacy":"Katubedda Pharmacy (Pvt0 Ltd", 
+		"Address":"560,galle Rd,Katubedda,moratuwa", 
+		"Contact No":"774523946", 
+		"Pharmacist Name":"Ms S.N.D.Fernando", 
+		"Owner":"N/A", 
+		"Whatsapp No":"774523946", 
+		"Viber No":"N/A", 
+		"E mail":"newkatubeddapharmacy@gmail.com"
+	},
+	{
 		"No":"1197", 
 		"District":"Colombo", 
 		"MOH Area":"Moratuwa", 
@@ -4198,6 +4432,32 @@
 		"E mail":"dimuthprasanga1975@gmail.com"
 	},
 	{
+		"No":"1359", 
+		"District":"Colombo", 
+		"MOH Area":"Moratuwa", 
+		"Name of the Pharmacy":"Premier Pharmacy", 
+		"Address":"292,Galle Rd,Rawathawaththa,Moratuwa.", 
+		"Contact No":"112642304", 
+		"Pharmacist Name":"Mr S.B.samarakoon", 
+		"Owner":"Mr S.b.samarakoon", 
+		"Whatsapp No":"750213451", 
+		"Viber No":"750213451", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"1360", 
+		"District":"Colombo", 
+		"MOH Area":"Moratuwa", 
+		"Name of the Pharmacy":"Shareez Pharmacy", 
+		"Address":"38D,Main Street,moratuwa.", 
+		"Contact No":"777799737", 
+		"Pharmacist Name":"Mr M.L.Zawahir", 
+		"Owner":"Mr M.S.A.Kabeer", 
+		"Whatsapp No":"777799737", 
+		"Viber No":"777799737", 
+		"E mail":"shareezkabeer@gmail.com"
+	},
+	{
 		"No":"299", 
 		"District":"Colombo", 
 		"MOH Area":"Moratuwa", 
@@ -4209,6 +4469,19 @@
 		"Whatsapp No":"N/A", 
 		"Viber No":"N/A", 
 		"E mail":"N/A"
+	},
+	{
+		"No":"1361", 
+		"District":"Colombo", 
+		"MOH Area":"Moratuwa", 
+		"Name of the Pharmacy":"Sumudu Pharmacy", 
+		"Address":"43/1/1,Bandaranayaka mawatha,Katubedda", 
+		"Contact No":"719733840", 
+		"Pharmacist Name":"Ms Harsha Gamage", 
+		"Owner":"Mr S. Chandrasekara", 
+		"Whatsapp No":"758989909", 
+		"Viber No":"758989909", 
+		"E mail":"Ssumudupharmacy.moratuwa@gmail.com"
 	},
 	{
 		"No":"300", 
@@ -4248,6 +4521,19 @@
 		"Whatsapp No":"772993306", 
 		"Viber No":"N/A", 
 		"E mail":"N/A"
+	},
+	{
+		"No":"1362", 
+		"District":"Colombo", 
+		"MOH Area":"Nugegoda", 
+		"Name of the Pharmacy":"Deepal Pharmacy", 
+		"Address":"192A1,High Level Rd,nugegoda.", 
+		"Contact No":"774307090", 
+		"Pharmacist Name":"Mr O.D.C.Sampath", 
+		"Owner":"MrJ.T. Jaliyagoda", 
+		"Whatsapp No":"774307090", 
+		"Viber No":"774307090", 
+		"E mail":"deepalpharma@gmail.com"
 	},
 	{
 		"No":"303", 
@@ -4393,6 +4679,19 @@
 		"E mail":"N/A"
 	},
 	{
+		"No":"1363", 
+		"District":"Colombo", 
+		"MOH Area":"Nugegoda", 
+		"Name of the Pharmacy":"Sarasavi pharmacy", 
+		"Address":"6/3,Soratha Nahimi Mawatha,Gangodawila,Nugegoda", 
+		"Contact No":"761945631", 
+		"Pharmacist Name":"Ms K.W.J.Serasinghe", 
+		"Owner":"Ms K.W.J.Serasinghe", 
+		"Whatsapp No":"761945631", 
+		"Viber No":"761945631", 
+		"E mail":"karunaserasingha25@gmail.com"
+	},
+	{
 		"No":"313", 
 		"District":"Colombo", 
 		"MOH Area":"Nugegoda", 
@@ -4417,6 +4716,19 @@
 		"Whatsapp No":"N/A", 
 		"Viber No":"N/A", 
 		"E mail":"N/A"
+	},
+	{
+		"No":"1364", 
+		"District":"Colombo", 
+		"MOH Area":"Nugegoda", 
+		"Name of the Pharmacy":"Suprym Pharmacy", 
+		"Address":"1a Jubilee post,Mirihana,Nugegoda", 
+		"Contact No":"777897234", 
+		"Pharmacist Name":"Mr G. Karunaratne", 
+		"Owner":"Mr G.Karunaratne", 
+		"Whatsapp No":"777897234", 
+		"Viber No":"777897234", 
+		"E mail":"karunaratnagamini@gmail.com"
 	},
 	{
 		"No":"315", 
@@ -4937,6 +5249,19 @@
 		"Whatsapp No":"772307649", 
 		"Viber No":"772307649", 
 		"E mail":"N/A"
+	},
+	{
+		"No":"1365", 
+		"District":"Galle", 
+		"MOH Area":"Baddegama", 
+		"Name of the Pharmacy":"Silvas Medical Stores", 
+		"Address":"Kumme, Baddegama", 
+		"Contact No":"774409264", 
+		"Pharmacist Name":"N/A", 
+		"Owner":"N/A", 
+		"Whatsapp No":"774409264", 
+		"Viber No":"774409264", 
+		"E mail":"silvaspharmacyba@gmail.com"
 	},
 	{
 		"No":"352", 
@@ -5602,6 +5927,19 @@
 		"E mail":"N/A"
 	},
 	{
+		"No":"1366", 
+		"District":"Gampaha", 
+		"MOH Area":"Attanagalle", 
+		"Name of the Pharmacy":"Suwaya Pharmacy", 
+		"Address":"472/1c, st anthony&#39;s Mw, Niittambuwa", 
+		"Contact No":"773308996", 
+		"Pharmacist Name":"A,H,N,Mapitigama", 
+		"Owner":"N/A", 
+		"Whatsapp No":"773308996", 
+		"Viber No":"N/A", 
+		"E mail":"N/A"
+	},
+	{
 		"No":"1202", 
 		"District":"Gampaha", 
 		"MOH Area":"Biyagama", 
@@ -5654,6 +5992,19 @@
 		"E mail":"Jbandara80@gmail.com"
 	},
 	{
+		"No":"1367", 
+		"District":"Gampaha", 
+		"MOH Area":"Biyagama", 
+		"Name of the Pharmacy":"Koswatta pharmacy", 
+		"Address":"148/5A,Bandarawatta, Biyagama", 
+		"Contact No":"764623366", 
+		"Pharmacist Name":"S.M.A.S.Subashini", 
+		"Owner":"J.P.K.Liyanage", 
+		"Whatsapp No":"764623366", 
+		"Viber No":"N/A", 
+		"E mail":"koswaththapharmacy@yahoo.com"
+	},
+	{
 		"No":"404", 
 		"District":"Gampaha", 
 		"MOH Area":"Biyagama", 
@@ -5678,6 +6029,32 @@
 		"Whatsapp No":"777301454", 
 		"Viber No":"777301454", 
 		"E mail":"medicopharmacywalgama@gmail.com"
+	},
+	{
+		"No":"1368", 
+		"District":"Gampaha", 
+		"MOH Area":"Biyagama", 
+		"Name of the Pharmacy":"Merit pharmacy", 
+		"Address":"481/16,Peragashandiya, Biyagama", 
+		"Contact No":"729794647", 
+		"Pharmacist Name":"L.V.M.Niroshani", 
+		"Owner":"L.V.M.Niroshani", 
+		"Whatsapp No":"729794647", 
+		"Viber No":"729794647", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"1369", 
+		"District":"Gampaha", 
+		"MOH Area":"Biyagama", 
+		"Name of the Pharmacy":"Oriental pharmacy", 
+		"Address":"348/13,New Kandy rd,Delgoda", 
+		"Contact No":"N/A", 
+		"Pharmacist Name":"R.Samaradivakara", 
+		"Owner":"M.Welivita", 
+		"Whatsapp No":"779473997", 
+		"Viber No":"779473997", 
+		"E mail":"madhaveewelivita@gmail.com"
 	},
 	{
 		"No":"405", 
@@ -6304,6 +6681,19 @@
 		"E mail":"roshinipharmacy@gmail.com"
 	},
 	{
+		"No":"1370", 
+		"District":"Gampaha", 
+		"MOH Area":"Ja-Ela", 
+		"Name of the Pharmacy":"Sachithma Pharmacy and Grocery", 
+		"Address":"Ja Ela", 
+		"Contact No":"775710066", 
+		"Pharmacist Name":"N/A", 
+		"Owner":"N/A", 
+		"Whatsapp No":"775710066", 
+		"Viber No":"N/A", 
+		"E mail":"N/A"
+	},
+	{
 		"No":"1211", 
 		"District":"Gampaha", 
 		"MOH Area":"Ja-Ela", 
@@ -6590,6 +6980,19 @@
 		"E mail":"gunawardanagayanthi@gmail,com"
 	},
 	{
+		"No":"1371", 
+		"District":"Gampaha", 
+		"MOH Area":"Kelaniya", 
+		"Name of the Pharmacy":"Osujaya pharmacy", 
+		"Address":"55/4,Kandy rd, Kiribathgoda", 
+		"Contact No":"772388551", 
+		"Pharmacist Name":"U.A.D.K.Anura", 
+		"Owner":"W.P.L.Gunawardena", 
+		"Whatsapp No":"777395195", 
+		"Viber No":"777395195", 
+		"E mail":"wajirapriyankara@gmail.com"
+	},
+	{
 		"No":"1220", 
 		"District":"Gampaha", 
 		"MOH Area":"Kelaniya", 
@@ -6642,6 +7045,45 @@
 		"E mail":"yukeepharmacy@gmail.com"
 	},
 	{
+		"No":"1372", 
+		"District":"Gampaha", 
+		"MOH Area":"Mahara", 
+		"Name of the Pharmacy":"Familycare Pharmacy", 
+		"Address":"427/2/C, Dalupitiya Rd, Enderamulla", 
+		"Contact No":"727881301", 
+		"Pharmacist Name":"H.G.K.P.Shiromali", 
+		"Owner":"M.M.Fahumy", 
+		"Whatsapp No":"727881301", 
+		"Viber No":"N/A", 
+		"E mail":"fahumiy@gmail.com"
+	},
+	{
+		"No":"1373", 
+		"District":"Gampaha", 
+		"MOH Area":"Mahara", 
+		"Name of the Pharmacy":"Jayalath Pharmacy", 
+		"Address":"06, New shopping complex, Malwathuhiripitiya, Buthpitiya", 
+		"Contact No":"773906968", 
+		"Pharmacist Name":"H.I.P.Perera", 
+		"Owner":"E.M.Ekanayaka", 
+		"Whatsapp No":"76433625", 
+		"Viber No":"76433625", 
+		"E mail":"vijithageethan@gmail.com"
+	},
+	{
+		"No":"1374", 
+		"District":"Gampaha", 
+		"MOH Area":"Mahara", 
+		"Name of the Pharmacy":"Lanka Pharmacy", 
+		"Address":"406/18/2,Ganemulla Rd, Welipillewa", 
+		"Contact No":"779622168", 
+		"Pharmacist Name":"S.D.S.Dilrukshi", 
+		"Owner":"S.D.S.Dilrukshi", 
+		"Whatsapp No":"765579755", 
+		"Viber No":"779622168", 
+		"E mail":"N/A"
+	},
+	{
 		"No":"462", 
 		"District":"Gampaha", 
 		"MOH Area":"Mahara", 
@@ -6679,6 +7121,19 @@
 		"Whatsapp No":"722329333", 
 		"Viber No":"N/A", 
 		"E mail":"Pharmacy.newlanka@gmail.com"
+	},
+	{
+		"No":"1375", 
+		"District":"Gampaha", 
+		"MOH Area":"Mahara", 
+		"Name of the Pharmacy":"New Mihikatha pharmacy", 
+		"Address":"440/C/2, Ranmuthugala, Kadawatha", 
+		"Contact No":"775766027", 
+		"Pharmacist Name":"B.M.S.Bandara", 
+		"Owner":"J.L.A.S.Gamini", 
+		"Whatsapp No":"775766027", 
+		"Viber No":"775766027", 
+		"E mail":"N/A"
 	},
 	{
 		"No":"465", 
@@ -6720,6 +7175,19 @@
 		"E mail":"N/A"
 	},
 	{
+		"No":"1376", 
+		"District":"Gampaha", 
+		"MOH Area":"Mahara", 
+		"Name of the Pharmacy":"Sesanda Pharmacy", 
+		"Address":"400/31/D, Jayanthi place, Kandy Rd, Kirillawela", 
+		"Contact No":"714110303", 
+		"Pharmacist Name":"M.A.M.C.Kumara", 
+		"Owner":"M.A.M.C.Kumara", 
+		"Whatsapp No":"714110303", 
+		"Viber No":"714110303", 
+		"E mail":"N/A"
+	},
+	{
 		"No":"468", 
 		"District":"Gampaha", 
 		"MOH Area":"Mahara", 
@@ -6744,6 +7212,19 @@
 		"Whatsapp No":"715655444", 
 		"Viber No":"N/A", 
 		"E mail":"prasannaganepola@gmail.com"
+	},
+	{
+		"No":"1377", 
+		"District":"Gampaha", 
+		"MOH Area":"Mahara", 
+		"Name of the Pharmacy":"Shyama pharmacy", 
+		"Address":"358/1/2,Kandy Rd, Kirillawela, Webada", 
+		"Contact No":"716612708", 
+		"Pharmacist Name":"P.W.D.S.Dilrukshi", 
+		"Owner":"P.W.D.S.Dilrukshi", 
+		"Whatsapp No":"716612708", 
+		"Viber No":"716612708", 
+		"E mail":"N/A"
 	},
 	{
 		"No":"470", 
@@ -7084,6 +7565,19 @@
 		"E mail":"citymedi@gmail.com"
 	},
 	{
+		"No":"1378", 
+		"District":"Gampaha", 
+		"MOH Area":"Negombo", 
+		"Name of the Pharmacy":"Danya Pharmacy", 
+		"Address":"Galkanda Junction, Negombo", 
+		"Contact No":"777190593", 
+		"Pharmacist Name":"N/A", 
+		"Owner":"Priyanthi Madanasinghe", 
+		"Whatsapp No":"777190593", 
+		"Viber No":"N/A", 
+		"E mail":"primadanasinghe@gmail.com"
+	},
+	{
 		"No":"487", 
 		"District":"Gampaha", 
 		"MOH Area":"Negombo", 
@@ -7279,6 +7773,58 @@
 		"E mail":"Madura.buddika@yahoo.com"
 	},
 	{
+		"No":"1379", 
+		"District":"Gampaha", 
+		"MOH Area":"Ragama", 
+		"Name of the Pharmacy":"Jayasri pharmacy", 
+		"Address":"138/A, Peralanda, Ragama", 
+		"Contact No":"112079964", 
+		"Pharmacist Name":"Mrs. Buddika", 
+		"Owner":"Mohan Liyanarachchi", 
+		"Whatsapp No":"770636350", 
+		"Viber No":"770636350", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"1380", 
+		"District":"Gampaha", 
+		"MOH Area":"Ragama", 
+		"Name of the Pharmacy":"Mama pharmacy", 
+		"Address":"41/1,Thalagolla rd,Hospital junction, Ragama", 
+		"Contact No":"754014701", 
+		"Pharmacist Name":"R.P.Athapattu", 
+		"Owner":"S.F.Haseem", 
+		"Whatsapp No":"754014701", 
+		"Viber No":"N/A", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"1381", 
+		"District":"Gampaha", 
+		"MOH Area":"Ragama", 
+		"Name of the Pharmacy":"Nawa Osusala", 
+		"Address":"931,Mahabage Rd, Ragama", 
+		"Contact No":"760391376", 
+		"Pharmacist Name":"K.P.D.C.Perera", 
+		"Owner":"Muditha Rajapaksha", 
+		"Whatsapp No":"777326386", 
+		"Viber No":"777326386", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"1382", 
+		"District":"Gampaha", 
+		"MOH Area":"Ragama", 
+		"Name of the Pharmacy":"New pharmacy", 
+		"Address":"296/A, Delpe Handiya, ragama", 
+		"Contact No":"719203176", 
+		"Pharmacist Name":"V.G.D.Kumara", 
+		"Owner":"S.A.I.U.Kumara", 
+		"Whatsapp No":"712508209", 
+		"Viber No":"712508209", 
+		"E mail":"N/A"
+	},
+	{
 		"No":"498", 
 		"District":"Gampaha", 
 		"MOH Area":"Ragama", 
@@ -7303,6 +7849,19 @@
 		"Whatsapp No":"773171977", 
 		"Viber No":"773171977", 
 		"E mail":"ragamapharma@gmail.com"
+	},
+	{
+		"No":"1383", 
+		"District":"Gampaha", 
+		"MOH Area":"Ragama", 
+		"Name of the Pharmacy":"Sahana Osusala", 
+		"Address":"No. 640, Thewattha Rd., Ragama.", 
+		"Contact No":"710104422", 
+		"Pharmacist Name":"THAP Thrimanna", 
+		"Owner":"THAP Thrimanna", 
+		"Whatsapp No":"N/A", 
+		"Viber No":"703513021", 
+		"E mail":"N/A"
 	},
 	{
 		"No":"500", 
@@ -7474,6 +8033,19 @@
 		"E mail":"N/A"
 	},
 	{
+		"No":"1384", 
+		"District":"Gampaha", 
+		"MOH Area":"Wattala", 
+		"Name of the Pharmacy":"Bopitiya pharmacy", 
+		"Address":"26, Bopitiya Junction, Pamunugama", 
+		"Contact No":"113036270", 
+		"Pharmacist Name":"M.W.D.Thisera", 
+		"Owner":"K.A.D.D.Wasantha", 
+		"Whatsapp No":"774402144", 
+		"Viber No":"774402144", 
+		"E mail":"bopitiyaosusala@gmail.com"
+	},
+	{
 		"No":"509", 
 		"District":"Gampaha", 
 		"MOH Area":"Wattala", 
@@ -7497,6 +8069,71 @@
 		"Owner":"Mr. Jayanath", 
 		"Whatsapp No":"714888499", 
 		"Viber No":"N/A", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"1385", 
+		"District":"Gampaha", 
+		"MOH Area":"Wattala", 
+		"Name of the Pharmacy":"Krismo pharmacy", 
+		"Address":"743/B,Negambo rd, Wattala", 
+		"Contact No":"777317696", 
+		"Pharmacist Name":"Mrs.Thatparan", 
+		"Owner":"G.K.B.Krishnan", 
+		"Whatsapp No":"722781814", 
+		"Viber No":"722781814", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"1386", 
+		"District":"Gampaha", 
+		"MOH Area":"Wattala", 
+		"Name of the Pharmacy":"Lakshan Chemist pharmacy", 
+		"Address":"691/2, negambo Rd, mabola, wattala", 
+		"Contact No":"112932162", 
+		"Pharmacist Name":"M.M.Naslin", 
+		"Owner":"M.P.Manoharan", 
+		"Whatsapp No":"770664897", 
+		"Viber No":"770664897", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"1387", 
+		"District":"Gampaha", 
+		"MOH Area":"Wattala", 
+		"Name of the Pharmacy":"Mabola osusala", 
+		"Address":"743/B,Negambo rd, Wattala", 
+		"Contact No":"723294904", 
+		"Pharmacist Name":"M.S.M.R.R.Mirza", 
+		"Owner":"M.S.M.R.R.Mirza", 
+		"Whatsapp No":"723294904", 
+		"Viber No":"723294904", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"1388", 
+		"District":"Gampaha", 
+		"MOH Area":"Wattala", 
+		"Name of the Pharmacy":"New Pharmacy", 
+		"Address":"175, Negambo Rd, wattala", 
+		"Contact No":"716754631", 
+		"Pharmacist Name":"N.N.S.Ranathunga", 
+		"Owner":"H.d.P.Emmanuwel", 
+		"Whatsapp No":"716754631", 
+		"Viber No":"756257257", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"1389", 
+		"District":"Gampaha", 
+		"MOH Area":"Wattala", 
+		"Name of the Pharmacy":"New Rio pharmacy", 
+		"Address":"16,palliyawatta, Hendala, wattala", 
+		"Contact No":"714358046", 
+		"Pharmacist Name":"Sulochana Fernando", 
+		"Owner":"Tyral Nanayakkara", 
+		"Whatsapp No":"714358046", 
+		"Viber No":"714358046", 
 		"E mail":"N/A"
 	},
 	{
@@ -7539,6 +8176,19 @@
 		"E mail":"svitharanage@yahoo.com"
 	},
 	{
+		"No":"1390", 
+		"District":"Gampaha", 
+		"MOH Area":"Wattala", 
+		"Name of the Pharmacy":"Sampath pharmacy", 
+		"Address":"111/2,Elapitawala, Ragama", 
+		"Contact No":"112960999", 
+		"Pharmacist Name":"M.H.N.Fernando", 
+		"Owner":"W.S.Sampath", 
+		"Whatsapp No":"717990225", 
+		"Viber No":"717990225", 
+		"E mail":"N/A"
+	},
+	{
 		"No":"514", 
 		"District":"Gampaha", 
 		"MOH Area":"Wattala", 
@@ -7549,6 +8199,32 @@
 		"Owner":"D.S.P.Kotikawatta", 
 		"Whatsapp No":"775033539", 
 		"Viber No":"N/A", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"1391", 
+		"District":"Gampaha", 
+		"MOH Area":"Wattala", 
+		"Name of the Pharmacy":"Sudees pharmacy", 
+		"Address":"122/A, Hekiththa Rd, Wattala", 
+		"Contact No":"332220190", 
+		"Pharmacist Name":"M.J.M.Jayathilaka", 
+		"Owner":"R.Sudeeskumar", 
+		"Whatsapp No":"777037387", 
+		"Viber No":"777037387", 
+		"E mail":"Sudees1244@gmail.co"
+	},
+	{
+		"No":"1392", 
+		"District":"Gampaha", 
+		"MOH Area":"Wattala", 
+		"Name of the Pharmacy":"The golden chemist pharmacy", 
+		"Address":"269, Nagoda junction, Wesara, Ragama", 
+		"Contact No":"771931449", 
+		"Pharmacist Name":"M.M.Deepthi", 
+		"Owner":"M.Sathasivam", 
+		"Whatsapp No":"763297618", 
+		"Viber No":"763297618", 
 		"E mail":"N/A"
 	},
 	{
@@ -8137,6 +8813,19 @@
 		"E mail":"N/A"
 	},
 	{
+		"No":"1393", 
+		"District":"Jaffna", 
+		"MOH Area":"Jaffna", 
+		"Name of the Pharmacy":"Royal Pharmacy", 
+		"Address":"Hospital Road", 
+		"Contact No":"N/A", 
+		"Pharmacist Name":"C.E. Joseph", 
+		"Owner":"N/A", 
+		"Whatsapp No":"777917987", 
+		"Viber No":"777917987", 
+		"E mail":"N/A"
+	},
+	{
 		"No":"558", 
 		"District":"Jaffna", 
 		"MOH Area":"Jaffna", 
@@ -8254,6 +8943,19 @@
 		"E mail":"aathiraja26@gmail.com"
 	},
 	{
+		"No":"1394", 
+		"District":"Jaffna", 
+		"MOH Area":"Kopay", 
+		"Name of the Pharmacy":"S.K. Pharmacy", 
+		"Address":"Irupalai", 
+		"Contact No":"N/A", 
+		"Pharmacist Name":"L.C. Jeyaseelan", 
+		"Owner":"N/A", 
+		"Whatsapp No":"772600093", 
+		"Viber No":"772600093", 
+		"E mail":"N/A"
+	},
+	{
 		"No":"567", 
 		"District":"Jaffna", 
 		"MOH Area":"Kopay", 
@@ -8345,6 +9047,19 @@
 		"E mail":"N/A"
 	},
 	{
+		"No":"1395", 
+		"District":"Jaffna", 
+		"MOH Area":"Nallur", 
+		"Name of the Pharmacy":"Get Well Pharmacy", 
+		"Address":"Nachimarkovil", 
+		"Contact No":"N/A", 
+		"Pharmacist Name":"R.Ratheeskumar", 
+		"Owner":"N/A", 
+		"Whatsapp No":"777774072", 
+		"Viber No":"777774072", 
+		"E mail":"N/A"
+	},
+	{
 		"No":"574", 
 		"District":"Jaffna", 
 		"MOH Area":"Nallur", 
@@ -8369,6 +9084,58 @@
 		"Whatsapp No":"772700190", 
 		"Viber No":"772700190", 
 		"E mail":"raviraj21@icolud.com"
+	},
+	{
+		"No":"1396", 
+		"District":"Jaffna", 
+		"MOH Area":"Nallur", 
+		"Name of the Pharmacy":"Sri Murugan Medicals", 
+		"Address":"Kalviyankadu", 
+		"Contact No":"N/A", 
+		"Pharmacist Name":"P.Vasantharupan", 
+		"Owner":"N/A", 
+		"Whatsapp No":"710145887", 
+		"Viber No":"710145887", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"1397", 
+		"District":"Jaffna", 
+		"MOH Area":"Nelliady", 
+		"Name of the Pharmacy":"Nelliady Medicals", 
+		"Address":"Nelliady", 
+		"Contact No":"N/A", 
+		"Pharmacist Name":"Dr. V, Kamalanathan", 
+		"Owner":"N/A", 
+		"Whatsapp No":"778280932", 
+		"Viber No":"778280932", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"1398", 
+		"District":"Jaffna", 
+		"MOH Area":"Nelliady", 
+		"Name of the Pharmacy":"Thiru Nadana Murugan", 
+		"Address":"Nelliady", 
+		"Contact No":"N/A", 
+		"Pharmacist Name":"V.Sivasubramanium", 
+		"Owner":"N/A", 
+		"Whatsapp No":"774239659", 
+		"Viber No":"774239659", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"1399", 
+		"District":"Jaffna", 
+		"MOH Area":"Nelliady", 
+		"Name of the Pharmacy":"V Zone Medicals", 
+		"Address":"Nelliady", 
+		"Contact No":"N/A", 
+		"Pharmacist Name":"B. Nirojala", 
+		"Owner":"N/A", 
+		"Whatsapp No":"777353121", 
+		"Viber No":"777353121", 
+		"E mail":"N/A"
 	},
 	{
 		"No":"576", 
@@ -8410,6 +9177,19 @@
 		"E mail":"srikias1991@gmail.com"
 	},
 	{
+		"No":"1400", 
+		"District":"Jaffna", 
+		"MOH Area":"Point Pedro", 
+		"Name of the Pharmacy":"Sunthary Medicals", 
+		"Address":"Valvetithurai", 
+		"Contact No":"N/A", 
+		"Pharmacist Name":"K.Kavitha", 
+		"Owner":"N/A", 
+		"Whatsapp No":"783568336", 
+		"Viber No":"783568336", 
+		"E mail":"N/A"
+	},
+	{
 		"No":"579", 
 		"District":"Jaffna", 
 		"MOH Area":"Point Pedro", 
@@ -8421,6 +9201,19 @@
 		"Whatsapp No":"783568336", 
 		"Viber No":"783568336", 
 		"E mail":"Kavithakonanayagam3333@gmail.com"
+	},
+	{
+		"No":"1401", 
+		"District":"Jaffna", 
+		"MOH Area":"Sandilipay", 
+		"Name of the Pharmacy":"Gnanam Medi Care", 
+		"Address":"Manipay", 
+		"Contact No":"N/A", 
+		"Pharmacist Name":"M. Samuthiraraj", 
+		"Owner":"N/A", 
+		"Whatsapp No":"777305033", 
+		"Viber No":"777305033", 
+		"E mail":"N/A"
 	},
 	{
 		"No":"580", 
@@ -8462,6 +9255,19 @@
 		"E mail":"N/A"
 	},
 	{
+		"No":"1402", 
+		"District":"Jaffna", 
+		"MOH Area":"Sandilipay", 
+		"Name of the Pharmacy":"Nature Pharmacy", 
+		"Address":"Pandatheruppu", 
+		"Contact No":"N/A", 
+		"Pharmacist Name":"T. Kajitha", 
+		"Owner":"N/A", 
+		"Whatsapp No":"778830308", 
+		"Viber No":"778830308", 
+		"E mail":"N/A"
+	},
+	{
 		"No":"583", 
 		"District":"Jaffna", 
 		"MOH Area":"Tellipallai", 
@@ -8472,6 +9278,19 @@
 		"Owner":"N/A", 
 		"Whatsapp No":"764671013", 
 		"Viber No":"N/A", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"1403", 
+		"District":"Jaffna", 
+		"MOH Area":"Tellipallai", 
+		"Name of the Pharmacy":"Niru Medicals", 
+		"Address":"Allavetti", 
+		"Contact No":"N/A", 
+		"Pharmacist Name":"S.Sivaruban", 
+		"Owner":"N/A", 
+		"Whatsapp No":"777243091", 
+		"Viber No":"777243091", 
 		"E mail":"N/A"
 	},
 	{
@@ -8501,6 +9320,19 @@
 		"E mail":"Makilan56@gmail.com"
 	},
 	{
+		"No":"1404", 
+		"District":"Jaffna", 
+		"MOH Area":"Uduvil", 
+		"Name of the Pharmacy":"Ambika Pharmacy", 
+		"Address":"Inuvil", 
+		"Contact No":"N/A", 
+		"Pharmacist Name":"S.Chandramohan", 
+		"Owner":"N/A", 
+		"Whatsapp No":"776691232", 
+		"Viber No":"N/A", 
+		"E mail":"N/A"
+	},
+	{
 		"No":"586", 
 		"District":"Jaffna", 
 		"MOH Area":"Uduvil", 
@@ -8525,6 +9357,19 @@
 		"Whatsapp No":"766252796", 
 		"Viber No":"766252796", 
 		"E mail":"makilan56@gmail.com"
+	},
+	{
+		"No":"1405", 
+		"District":"Jaffna", 
+		"MOH Area":"Uduvil", 
+		"Name of the Pharmacy":"Medicare Pharmacy", 
+		"Address":"KKS Road, Chunnakam", 
+		"Contact No":"714806309", 
+		"Pharmacist Name":"Mrs. V Ramachandran", 
+		"Owner":"N/A", 
+		"Whatsapp No":"714806309", 
+		"Viber No":"714806309", 
+		"E mail":"thiru_uoc@yahoo.com"
 	},
 	{
 		"No":"588", 
@@ -9247,7 +10092,7 @@
 		"MOH Area":"Horana", 
 		"Name of the Pharmacy":"Medihelp Pharmacy", 
 		"Address":"No 172/3, Panadura Road, Horana.", 
-		"Contact No":"0775454341", 
+		"Contact No":"775454341", 
 		"Pharmacist Name":"A A Nihal Gamini Amarasingha", 
 		"Owner":"Leslie Wijesiriwardana", 
 		"Whatsapp No":"775454341", 
@@ -9421,6 +10266,19 @@
 		"Owner":"KMI Fernando", 
 		"Whatsapp No":"773506363", 
 		"Viber No":"N/A", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"1406", 
+		"District":"Kalutara", 
+		"MOH Area":"Kalutara", 
+		"Name of the Pharmacy":"Onro Pharmacy", 
+		"Address":"No. 25, Nagoda Road, Katukurunda Junction, Kalutara", 
+		"Contact No":"773420144", 
+		"Pharmacist Name":"Chandima Edirisinghe", 
+		"Owner":"N/A", 
+		"Whatsapp No":"718560985", 
+		"Viber No":"718560985", 
 		"E mail":"N/A"
 	},
 	{
@@ -9905,6 +10763,19 @@
 		"E mail":"akuranamedicals1999@gmail.com"
 	},
 	{
+		"No":"1407", 
+		"District":"Kandy", 
+		"MOH Area":"Akurana", 
+		"Name of the Pharmacy":"Bio Plus Pharmacy", 
+		"Address":"260, Mathale Road, Akurana", 
+		"Contact No":"812305070", 
+		"Pharmacist Name":"Zaman Aslam", 
+		"Owner":"M.M.S.Razar", 
+		"Whatsapp No":"771192420", 
+		"Viber No":"77119242", 
+		"E mail":"mmshahmy@gmail.com"
+	},
+	{
 		"No":"672", 
 		"District":"Kandy", 
 		"MOH Area":"Akurana", 
@@ -9942,6 +10813,19 @@
 		"Whatsapp No":"772381221", 
 		"Viber No":"772381221", 
 		"E mail":"acmmarzook64@gmail.com"
+	},
+	{
+		"No":"1408", 
+		"District":"Kandy", 
+		"MOH Area":"Akurana", 
+		"Name of the Pharmacy":"City Pharmacy", 
+		"Address":"124, Asna mosque Rd, Akurana", 
+		"Contact No":"812300180", 
+		"Pharmacist Name":"P.Jayasundere", 
+		"Owner":"Z.A.M. Ruwaiz", 
+		"Whatsapp No":"777841261", 
+		"Viber No":"N/A", 
+		"E mail":"muhamedrazny@hmail.com"
 	},
 	{
 		"No":"675", 
@@ -10087,6 +10971,19 @@
 		"E mail":"N/A"
 	},
 	{
+		"No":"1409", 
+		"District":"Kandy", 
+		"MOH Area":"Gampola", 
+		"Name of the Pharmacy":"Cargills Food City", 
+		"Address":"8/8, Nawalapitiya Rd, Gampola", 
+		"Contact No":"812350872", 
+		"Pharmacist Name":"W.G.Achala Samankumari", 
+		"Owner":"Prasanna", 
+		"Whatsapp No":"778311190", 
+		"Viber No":"N/A", 
+		"E mail":"fc.gampola@cargillsceylon.com"
+	},
+	{
 		"No":"686", 
 		"District":"Kandy", 
 		"MOH Area":"Gampola", 
@@ -10098,6 +10995,19 @@
 		"Whatsapp No":"718393041", 
 		"Viber No":"N/A", 
 		"E mail":"galledrugs@ymail .com"
+	},
+	{
+		"No":"1410", 
+		"District":"Kandy", 
+		"MOH Area":"Gampola", 
+		"Name of the Pharmacy":"Genuine Pharmacy", 
+		"Address":"15, N&#39;Eliya Rd, Pussellawa", 
+		"Contact No":"715353518", 
+		"Pharmacist Name":"J.A.M.A.R.J. Bandara", 
+		"Owner":"N.G.C.D.Gunasekara", 
+		"Whatsapp No":"715353518", 
+		"Viber No":"715353518", 
+		"E mail":"genuinepharmaceuticals@gmail.com"
 	},
 	{
 		"No":"687", 
@@ -10113,6 +11023,19 @@
 		"E mail":"hlmajward@gmail.com"
 	},
 	{
+		"No":"1411", 
+		"District":"Kandy", 
+		"MOH Area":"Gampola", 
+		"Name of the Pharmacy":"King Pharmacy", 
+		"Address":"29/6, CTB Busstand, Gampola", 
+		"Contact No":"774311155", 
+		"Pharmacist Name":"N/A", 
+		"Owner":"Stephen Selister Francis", 
+		"Whatsapp No":"774311155", 
+		"Viber No":"774311155", 
+		"E mail":"selisterfrancis@yahoo.com"
+	},
+	{
 		"No":"688", 
 		"District":"Kandy", 
 		"MOH Area":"Gampola", 
@@ -10124,6 +11047,58 @@
 		"Whatsapp No":"N/A", 
 		"Viber No":"N/A", 
 		"E mail":"lankapharmacysiva@gmail.com"
+	},
+	{
+		"No":"1412", 
+		"District":"Kandy", 
+		"MOH Area":"Gampola", 
+		"Name of the Pharmacy":"Multy Pharmacy", 
+		"Address":"6/3, Nidahas Mw, Gampola", 
+		"Contact No":"812079570", 
+		"Pharmacist Name":"Nishantha Arawpola", 
+		"Owner":"Nishantha Arawpola", 
+		"Whatsapp No":"727903020", 
+		"Viber No":"727903020", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"1413", 
+		"District":"Kandy", 
+		"MOH Area":"Gampola", 
+		"Name of the Pharmacy":"Nawa Lanka Pharmacy", 
+		"Address":"391, N&#39;Eliya Rd, Pussellawa", 
+		"Contact No":"712057632", 
+		"Pharmacist Name":"Kanthi Jayawardane", 
+		"Owner":"S.Yogeshwaran", 
+		"Whatsapp No":"712057632", 
+		"Viber No":"776541463", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"1414", 
+		"District":"Kandy", 
+		"MOH Area":"Gampola", 
+		"Name of the Pharmacy":"New City Medical", 
+		"Address":"47/4, Malabaar Street, Gampola", 
+		"Contact No":"714473873", 
+		"Pharmacist Name":"A.K.Suraveera", 
+		"Owner":"M.I.M. Rasli", 
+		"Whatsapp No":"N/A", 
+		"Viber No":"777464649", 
+		"E mail":"rasly1967@gmail.com"
+	},
+	{
+		"No":"1415", 
+		"District":"Kandy", 
+		"MOH Area":"Gampola", 
+		"Name of the Pharmacy":"Prince Pharmacy &amp; Grocery", 
+		"Address":"97, N&#39;Eliya Rd, Gampola", 
+		"Contact No":"767561981", 
+		"Pharmacist Name":"A.A.H.Salmalee", 
+		"Owner":"M.H.M. Nizmy", 
+		"Whatsapp No":"767561981", 
+		"Viber No":"N/A", 
+		"E mail":"nizmyhaniffa109983@gmail.com"
 	},
 	{
 		"No":"689", 
@@ -10139,6 +11114,19 @@
 		"E mail":"rajphamacygp@gmail.com"
 	},
 	{
+		"No":"1416", 
+		"District":"Kandy", 
+		"MOH Area":"Gampola", 
+		"Name of the Pharmacy":"Ras Medicals", 
+		"Address":"318/A, Kandy Rd, Kahatapitya,Gampola", 
+		"Contact No":"779779620", 
+		"Pharmacist Name":"M.M.F.Rinooza", 
+		"Owner":"I.A.Saththar", 
+		"Whatsapp No":"77863940", 
+		"Viber No":"N/A", 
+		"E mail":"nisshin88@gmail.com"
+	},
+	{
 		"No":"690", 
 		"District":"Kandy", 
 		"MOH Area":"Gampola", 
@@ -10150,6 +11138,32 @@
 		"Whatsapp No":"777673770", 
 		"Viber No":"777673770", 
 		"E mail":"mnssasi@gmail.com"
+	},
+	{
+		"No":"1417", 
+		"District":"Kandy", 
+		"MOH Area":"Gampola", 
+		"Name of the Pharmacy":"Suwabawaba Pharmacy &amp; Grocery", 
+		"Address":"12/1, illawathuraRd, Gampola", 
+		"Contact No":"812353285", 
+		"Pharmacist Name":"A.A.Deepika Priyanthi", 
+		"Owner":"alagu Suresh Kumar", 
+		"Whatsapp No":"774735992", 
+		"Viber No":"N/A", 
+		"E mail":"suwabhawanapharmacy@gmail.com"
+	},
+	{
+		"No":"1418", 
+		"District":"Kandy", 
+		"MOH Area":"Gampola", 
+		"Name of the Pharmacy":"Vision Pharmacy", 
+		"Address":"141/A, 2nd lane, mariyawaththa, Gampola", 
+		"Contact No":"772100071", 
+		"Pharmacist Name":"Gunathilaka", 
+		"Owner":"Nimal Athapaththu", 
+		"Whatsapp No":"761973166", 
+		"Viber No":"N/A", 
+		"E mail":"N/A"
 	},
 	{
 		"No":"691", 
@@ -10165,6 +11179,19 @@
 		"E mail":"asncollection1958@gmail.com"
 	},
 	{
+		"No":"1419", 
+		"District":"Kandy", 
+		"MOH Area":"Gangawatakorale", 
+		"Name of the Pharmacy":"Cargills Food City Pharmacy", 
+		"Address":"63, Kandy Rd, Ampitiya", 
+		"Contact No":"812242033", 
+		"Pharmacist Name":"A.G.N.D. Wickramage", 
+		"Owner":"Asanga Bandara", 
+		"Whatsapp No":"761116836", 
+		"Viber No":"761116836", 
+		"E mail":"express.ampitiya@cargillsceylon.com"
+	},
+	{
 		"No":"692", 
 		"District":"Kandy", 
 		"MOH Area":"Gangawatakorale", 
@@ -10176,6 +11203,19 @@
 		"Whatsapp No":"714291164", 
 		"Viber No":"N/A", 
 		"E mail":"aaprajapaksha@gmail.com"
+	},
+	{
+		"No":"1420", 
+		"District":"Kandy", 
+		"MOH Area":"Gangawatakorale", 
+		"Name of the Pharmacy":"Peradeniya Pharmacy and Grocery", 
+		"Address":"35, Gampola Rd, Peradeniya", 
+		"Contact No":"815615465", 
+		"Pharmacist Name":"N.G.Bandara", 
+		"Owner":"keerthi Wijenayake", 
+		"Whatsapp No":"770056044", 
+		"Viber No":"777964027", 
+		"E mail":"N/A"
 	},
 	{
 		"No":"693", 
@@ -10256,6 +11296,32 @@
 		"E mail":"N/A"
 	},
 	{
+		"No":"1421", 
+		"District":"Kandy", 
+		"MOH Area":"Kandy MC", 
+		"Name of the Pharmacy":"Bogambara Pharmacy", 
+		"Address":"21, Keppatipola Mw, Kandy", 
+		"Contact No":"786250089", 
+		"Pharmacist Name":"N.Velummaielum", 
+		"Owner":"N.Velummaielum", 
+		"Whatsapp No":"776717789", 
+		"Viber No":"776717789", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"1422", 
+		"District":"Kandy", 
+		"MOH Area":"Kandy MC", 
+		"Name of the Pharmacy":"Central Medicals", 
+		"Address":"92, Dalada Veediya, Kandy", 
+		"Contact No":"813333677", 
+		"Pharmacist Name":"J.M.P.Ishanka Jayasinghe", 
+		"Owner":"uma", 
+		"Whatsapp No":"777448800", 
+		"Viber No":"N/A", 
+		"E mail":"centralmedicals@gmail.com"
+	},
+	{
 		"No":"699", 
 		"District":"Kandy", 
 		"MOH Area":"Kandy MC", 
@@ -10280,6 +11346,45 @@
 		"Whatsapp No":"773313810", 
 		"Viber No":"N/A", 
 		"E mail":"N/A"
+	},
+	{
+		"No":"1423", 
+		"District":"Kandy", 
+		"MOH Area":"Kandy MC", 
+		"Name of the Pharmacy":"Family Care", 
+		"Address":"675, William Gopallawa Mw, Kandy", 
+		"Contact No":"812234123", 
+		"Pharmacist Name":"W.G.D.S.Wickramasinghe", 
+		"Owner":"S.Dinesh Kumar", 
+		"Whatsapp No":"770021471", 
+		"Viber No":"N/A", 
+		"E mail":"familycarepharmacy675@gmail.com"
+	},
+	{
+		"No":"1424", 
+		"District":"Kandy", 
+		"MOH Area":"Kandy MC", 
+		"Name of the Pharmacy":"Genuine Pharmacy", 
+		"Address":"43/B, Willium gopallawa Mw,Kandy", 
+		"Contact No":"812223623", 
+		"Pharmacist Name":"D.M.G.M.Dassanayake", 
+		"Owner":"J.M.A.R.Jayawardane", 
+		"Whatsapp No":"718166421", 
+		"Viber No":"N/A", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"1425", 
+		"District":"Kandy", 
+		"MOH Area":"Kandy MC", 
+		"Name of the Pharmacy":"Hanthana Pharmacy (Pvt) Ltd", 
+		"Address":"Hospital Rd,Kandy", 
+		"Contact No":"812064746", 
+		"Pharmacist Name":"N.Bandara", 
+		"Owner":"Ajith", 
+		"Whatsapp No":"76755672", 
+		"Viber No":"750404906", 
+		"E mail":"hanthanapharmacy@gmail.com"
 	},
 	{
 		"No":"701", 
@@ -10308,6 +11413,19 @@
 		"E mail":"health1stmuza@gmail.com"
 	},
 	{
+		"No":"1426", 
+		"District":"Kandy", 
+		"MOH Area":"Kandy MC", 
+		"Name of the Pharmacy":"Healthcare Pharmacy", 
+		"Address":"64,Williumgopallawa Mw, Kandy", 
+		"Contact No":"772613354", 
+		"Pharmacist Name":"R.S.R. Kumari", 
+		"Owner":"D.A.K. Galahitiyawa", 
+		"Whatsapp No":"768885485", 
+		"Viber No":"763809197", 
+		"E mail":"N/A"
+	},
+	{
 		"No":"703", 
 		"District":"Kandy", 
 		"MOH Area":"Kandy MC", 
@@ -10332,6 +11450,32 @@
 		"Whatsapp No":"777657770", 
 		"Viber No":"777657770", 
 		"E mail":"jayalankapharmacy@gmail.com"
+	},
+	{
+		"No":"1427", 
+		"District":"Kandy", 
+		"MOH Area":"Kandy MC", 
+		"Name of the Pharmacy":"Kandy King Medical", 
+		"Address":"51, Peradeniya rd, Kandy", 
+		"Contact No":"812202306", 
+		"Pharmacist Name":"Mihiri Sammani Pathiraja 0714441488", 
+		"Owner":"T.Rajkumar", 
+		"Whatsapp No":"772515525", 
+		"Viber No":"N/A", 
+		"E mail":"foxraj@gmail.com"
+	},
+	{
+		"No":"1428", 
+		"District":"Kandy", 
+		"MOH Area":"Kandy MC", 
+		"Name of the Pharmacy":"Keerthi Medical", 
+		"Address":"65/B, Peradeniya Rd, Kandy", 
+		"Contact No":"814935380", 
+		"Pharmacist Name":"W.Amandakoon", 
+		"Owner":"W.Amandakoon", 
+		"Whatsapp No":"716106103", 
+		"Viber No":"716106103", 
+		"E mail":"keerthiamandan@gmail.com"
 	},
 	{
 		"No":"705", 
@@ -10360,6 +11504,19 @@
 		"E mail":"ariharan8475@icloud.com"
 	},
 	{
+		"No":"1429", 
+		"District":"Kandy", 
+		"MOH Area":"Kandy MC", 
+		"Name of the Pharmacy":"Lanka Pharmacy", 
+		"Address":"83, Madawala rd, Katugasthota", 
+		"Contact No":"773286291", 
+		"Pharmacist Name":"A.T.Gunarathne", 
+		"Owner":"K.Kumaravel", 
+		"Whatsapp No":"N/A", 
+		"Viber No":"N/A", 
+		"E mail":"N/A"
+	},
+	{
 		"No":"707", 
 		"District":"Kandy", 
 		"MOH Area":"Kandy MC", 
@@ -10373,6 +11530,58 @@
 		"E mail":"slplretail@gmail.com"
 	},
 	{
+		"No":"1430", 
+		"District":"Kandy", 
+		"MOH Area":"Kandy MC", 
+		"Name of the Pharmacy":"Lanka Super Pharmacy", 
+		"Address":"29, Galagedara Rd, Katugasthota", 
+		"Contact No":"713056251", 
+		"Pharmacist Name":"W.Roshini Kumari", 
+		"Owner":"W.Roshini Kumari", 
+		"Whatsapp No":"713056251", 
+		"Viber No":"N/A", 
+		"E mail":"rk6574472@gmail.com"
+	},
+	{
+		"No":"1431", 
+		"District":"Kandy", 
+		"MOH Area":"Kandy MC", 
+		"Name of the Pharmacy":"Mankind Pharma (Pvt)Ltd", 
+		"Address":"219, madawala Rd, Katugasthota, Kandy", 
+		"Contact No":"766079675", 
+		"Pharmacist Name":"D.N.D. Kumari", 
+		"Owner":"s. mohomad", 
+		"Whatsapp No":"766079675", 
+		"Viber No":"N/A", 
+		"E mail":"rajamaniramesh6@GMAIL.COM"
+	},
+	{
+		"No":"1432", 
+		"District":"Kandy", 
+		"MOH Area":"Kandy MC", 
+		"Name of the Pharmacy":"New City Medical", 
+		"Address":"23/1, Daladaa Veediya, Kandy", 
+		"Contact No":"812205395", 
+		"Pharmacist Name":"Lakmali Jayalatha", 
+		"Owner":"S.Abeysekara", 
+		"Whatsapp No":"773037728", 
+		"Viber No":"714897861", 
+		"E mail":"ceeabaysekara@gmail.com"
+	},
+	{
+		"No":"1433", 
+		"District":"Kandy", 
+		"MOH Area":"Kandy MC", 
+		"Name of the Pharmacy":"New Lanka Medicare (pvt) Ltd", 
+		"Address":"679, Peradeniya Rd, Kandy", 
+		"Contact No":"777805963", 
+		"Pharmacist Name":"G.K.Liyanage", 
+		"Owner":"D.P.D. Kodagoda", 
+		"Whatsapp No":"777805963", 
+		"Viber No":"777805963", 
+		"E mail":"newlankamedipvtltd@gmail.com"
+	},
+	{
 		"No":"708", 
 		"District":"Kandy", 
 		"MOH Area":"Kandy MC", 
@@ -10384,6 +11593,19 @@
 		"Whatsapp No":"772437377", 
 		"Viber No":"703415679", 
 		"E mail":"N/A"
+	},
+	{
+		"No":"1434", 
+		"District":"Kandy", 
+		"MOH Area":"Kandy MC", 
+		"Name of the Pharmacy":"Nihal medical pvt ltd", 
+		"Address":"100 kotugodellaveediya.", 
+		"Contact No":"812234408", 
+		"Pharmacist Name":"nihal rajapaksha", 
+		"Owner":"vivekanandan", 
+		"Whatsapp No":"775567894", 
+		"Viber No":"775567894", 
+		"E mail":"nihalmedicalpvtltd@gmail.com"
 	},
 	{
 		"No":"709", 
@@ -10425,6 +11647,19 @@
 		"E mail":"N/A"
 	},
 	{
+		"No":"1435", 
+		"District":"Kandy", 
+		"MOH Area":"Kandy MC", 
+		"Name of the Pharmacy":"Pharma Plus Pharmacy", 
+		"Address":"86, Peradeniya Rd, Kandy", 
+		"Contact No":"815672157", 
+		"Pharmacist Name":"C.Krishanthi", 
+		"Owner":"R.Chandran", 
+		"Whatsapp No":"707735828", 
+		"Viber No":"773735828", 
+		"E mail":"kandychandran@yahoo.com"
+	},
+	{
 		"No":"712", 
 		"District":"Kandy", 
 		"MOH Area":"Kandy MC", 
@@ -10449,6 +11684,32 @@
 		"Whatsapp No":"719819000", 
 		"Viber No":"N/A", 
 		"E mail":"rajpharmacykandy@gmail.com"
+	},
+	{
+		"No":"1436", 
+		"District":"Kandy", 
+		"MOH Area":"Kandy MC", 
+		"Name of the Pharmacy":"Ref Jana Lanka Pharmacy", 
+		"Address":"749, Williumgopallawa Mw, Kandy", 
+		"Contact No":"812217159", 
+		"Pharmacist Name":"D.M.P.K.B. Palipana", 
+		"Owner":"K.M.T. Kulathunge", 
+		"Whatsapp No":"777912634", 
+		"Viber No":"777912634", 
+		"E mail":"ruwanherath74@gmail.com"
+	},
+	{
+		"No":"1437", 
+		"District":"Kandy", 
+		"MOH Area":"Kandy MC", 
+		"Name of the Pharmacy":"Rex Pharmacy", 
+		"Address":"23, Dalada street, Kandy", 
+		"Contact No":"812223277", 
+		"Pharmacist Name":"J.K.Ranathunge", 
+		"Owner":"J.K.Randunuge", 
+		"Whatsapp No":"777396662", 
+		"Viber No":"777396662", 
+		"E mail":"pharmacyrex@gmail.com"
 	},
 	{
 		"No":"714", 
@@ -10503,6 +11764,19 @@
 		"E mail":"karunarathnedik@gmail.com"
 	},
 	{
+		"No":"1438", 
+		"District":"Kandy", 
+		"MOH Area":"Kandy MC", 
+		"Name of the Pharmacy":"The Kandy Privet Hospital Ltd", 
+		"Address":"255/8, Katugasthota Rd, Kandy", 
+		"Contact No":"758642491", 
+		"Pharmacist Name":"H.D.J. Premarathne", 
+		"Owner":"K.N.Wewalwala", 
+		"Whatsapp No":"758642491", 
+		"Viber No":"N/A", 
+		"E mail":"kphacc.dep@gmail.com / kph@sltnet.lk"
+	},
+	{
 		"No":"718", 
 		"District":"Kandy", 
 		"MOH Area":"Kandy MC", 
@@ -10527,6 +11801,32 @@
 		"Whatsapp No":"714099405", 
 		"Viber No":"777266849", 
 		"E mail":"venuspharma.rajan@gmail.com"
+	},
+	{
+		"No":"1440", 
+		"District":"Kandy", 
+		"MOH Area":"Kandy MC", 
+		"Name of the Pharmacy":"Waasan Pharmacy", 
+		"Address":"23, Peradeniya Rd, Kandy", 
+		"Contact No":"812238791", 
+		"Pharmacist Name":"K.Nowlden", 
+		"Owner":"T.Logeswaran", 
+		"Whatsapp No":"712063720", 
+		"Viber No":"N/A", 
+		"E mail":"logeskawce@gmail.com"
+	},
+	{
+		"No":"1441", 
+		"District":"Kandy", 
+		"MOH Area":"Katugastota", 
+		"Name of the Pharmacy":"Mankind Pharmacy", 
+		"Address":"No 219 Madawala RD ,Katugastota ,kandy", 
+		"Contact No":"766079675", 
+		"Pharmacist Name":"D.N.D. Kumari", 
+		"Owner":"S.Mohomad", 
+		"Whatsapp No":"716529675", 
+		"Viber No":"N/A", 
+		"E mail":"N/A"
 	},
 	{
 		"No":"720", 
@@ -10568,6 +11868,32 @@
 		"E mail":"N/A"
 	},
 	{
+		"No":"1442", 
+		"District":"Kandy", 
+		"MOH Area":"Kundasale", 
+		"Name of the Pharmacy":"Elime Medicals", 
+		"Address":"36, Old digana,Rajawella", 
+		"Contact No":"771322031", 
+		"Pharmacist Name":"K.H. Madhusha Udayangani", 
+		"Owner":"Arumungam Subhadharshini", 
+		"Whatsapp No":"771322031", 
+		"Viber No":"N/A", 
+		"E mail":"subadharshini86@gmailcom"
+	},
+	{
+		"No":"1443", 
+		"District":"Kandy", 
+		"MOH Area":"Kundasale", 
+		"Name of the Pharmacy":"Meera Medicals (Pvt)Ltd", 
+		"Address":"58/A, Camp Rd, Digana", 
+		"Contact No":"777776574", 
+		"Pharmacist Name":"Ariyawansha", 
+		"Owner":"Sathyamurthi", 
+		"Whatsapp No":"777776574", 
+		"Viber No":"N/A", 
+		"E mail":"meeramedicals2013@gmail.com / faghimanoorjan@gmail.com"
+	},
+	{
 		"No":"723", 
 		"District":"Kandy", 
 		"MOH Area":"Kundasale", 
@@ -10607,6 +11933,32 @@
 		"E mail":"rajeshkannpjp@gmail.com"
 	},
 	{
+		"No":"1444", 
+		"District":"Kandy", 
+		"MOH Area":"Kundasale", 
+		"Name of the Pharmacy":"Sahana Pharmacy", 
+		"Address":"19/D,Madawala rd, Digana", 
+		"Contact No":"777883866", 
+		"Pharmacist Name":"R.M.C.D. Karunadasa", 
+		"Owner":"waris", 
+		"Whatsapp No":"777883866", 
+		"Viber No":"777883866", 
+		"E mail":"sahanapharmacy100@gmail.com"
+	},
+	{
+		"No":"1445", 
+		"District":"Kandy", 
+		"MOH Area":"Kundasale", 
+		"Name of the Pharmacy":"Sethsuwa Pharmacy", 
+		"Address":"50/3, Digana Village , Digana", 
+		"Contact No":"764404207", 
+		"Pharmacist Name":"U. Gunathilaka", 
+		"Owner":"Priyantha Wijerathne", 
+		"Whatsapp No":"764404207", 
+		"Viber No":"714910620", 
+		"E mail":"priyaceyoka@gmail.com"
+	},
+	{
 		"No":"726", 
 		"District":"Kandy", 
 		"MOH Area":"Kurunduwatta", 
@@ -10644,6 +11996,19 @@
 		"Whatsapp No":"772500212", 
 		"Viber No":"N/A", 
 		"E mail":"yasirupharmak@gmail.com"
+	},
+	{
+		"No":"1446", 
+		"District":"Kandy", 
+		"MOH Area":"Manikhinna", 
+		"Name of the Pharmacy":"Fare Well Pharmacy", 
+		"Address":"Polgolla", 
+		"Contact No":"778585297", 
+		"Pharmacist Name":"Manoj", 
+		"Owner":"Manoj", 
+		"Whatsapp No":"778585297", 
+		"Viber No":"778585297", 
+		"E mail":"N/A"
 	},
 	{
 		"No":"729", 
@@ -10737,6 +12102,19 @@
 		"E mail":"N/A"
 	},
 	{
+		"No":"1447", 
+		"District":"Kandy", 
+		"MOH Area":"Medadumbara", 
+		"Name of the Pharmacy":"Sahana Pharmacy", 
+		"Address":"29/B, Medamahanuwara", 
+		"Contact No":"701247700", 
+		"Pharmacist Name":"N/A", 
+		"Owner":"Upul", 
+		"Whatsapp No":"763964053", 
+		"Viber No":"763964053", 
+		"E mail":"upulsomasinghe@hmail.com"
+	},
+	{
 		"No":"736", 
 		"District":"Kandy", 
 		"MOH Area":"Medadumbara", 
@@ -10802,6 +12180,19 @@
 		"E mail":"N/A"
 	},
 	{
+		"No":"1448", 
+		"District":"Kandy", 
+		"MOH Area":"Nawalapitiya", 
+		"Name of the Pharmacy":"Sampatha Medicals", 
+		"Address":"Kothmale Rd, Nawalapitiya", 
+		"Contact No":"760618922", 
+		"Pharmacist Name":"Abeygunawardana", 
+		"Owner":"KANAGARATHNEM", 
+		"Whatsapp No":"777981019", 
+		"Viber No":"760618922", 
+		"E mail":"manokina63@gmail.com"
+	},
+	{
 		"No":"741", 
 		"District":"Kandy", 
 		"MOH Area":"Nawalapitiya", 
@@ -10826,6 +12217,19 @@
 		"Whatsapp No":"N/A", 
 		"Viber No":"N/A", 
 		"E mail":"N/A"
+	},
+	{
+		"No":"1449", 
+		"District":"Kandy", 
+		"MOH Area":"Panvila", 
+		"Name of the Pharmacy":"Asian Super Medical", 
+		"Address":"12,Main Street, Madulkalle", 
+		"Contact No":"775198344", 
+		"Pharmacist Name":"Arambepola", 
+		"Owner":"Shanthakumar", 
+		"Whatsapp No":"775198344", 
+		"Viber No":"775198344", 
+		"E mail":"shanbioplas@gmail.com"
 	},
 	{
 		"No":"743", 
@@ -11036,6 +12440,32 @@
 		"E mail":"beespharmacy@gmail.com"
 	},
 	{
+		"No":"1450", 
+		"District":"Kandy", 
+		"MOH Area":"Udunuwara", 
+		"Name of the Pharmacy":"Cargills Food City Pharmacy", 
+		"Address":"Peradeniya, Gelioya", 
+		"Contact No":"812310690", 
+		"Pharmacist Name":"Tusitha Rajapaksha", 
+		"Owner":"N/A", 
+		"Whatsapp No":"771645707", 
+		"Viber No":"N/A", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"1451", 
+		"District":"Kandy", 
+		"MOH Area":"Udunuwara", 
+		"Name of the Pharmacy":"City Pharmacy", 
+		"Address":"14, Station Road, Gelioya", 
+		"Contact No":"777078194", 
+		"Pharmacist Name":"N/A", 
+		"Owner":"R.M.Shiyam", 
+		"Whatsapp No":"777078194", 
+		"Viber No":"N/A", 
+		"E mail":"mohamedshiyamcity@gmail.com"
+	},
+	{
 		"No":"759", 
 		"District":"Kandy", 
 		"MOH Area":"Udunuwara", 
@@ -11047,6 +12477,19 @@
 		"Whatsapp No":"777275830", 
 		"Viber No":"777275830", 
 		"E mail":"iqramonline@gmail.com"
+	},
+	{
+		"No":"1452", 
+		"District":"Kandy", 
+		"MOH Area":"Udunuwara", 
+		"Name of the Pharmacy":"Life Pharmacy &amp; Grocery", 
+		"Address":"24,Daulagala Rd, Gelioya", 
+		"Contact No":"812607886", 
+		"Pharmacist Name":"M.R.Safaya", 
+		"Owner":"A.G.M. Faisal", 
+		"Whatsapp No":"765617199", 
+		"Viber No":"N/A", 
+		"E mail":"faizalsafaya@gmail.com"
 	},
 	{
 		"No":"760", 
@@ -11088,6 +12531,32 @@
 		"E mail":"Kumarages@gmail.com"
 	},
 	{
+		"No":"1453", 
+		"District":"Kandy", 
+		"MOH Area":"Waththegama", 
+		"Name of the Pharmacy":"Apolo Pharmacy", 
+		"Address":"6,Theldeniya Rd, Madawala Bazaar", 
+		"Contact No":"776209010", 
+		"Pharmacist Name":"nusla", 
+		"Owner":"M.N.M.Nazeem", 
+		"Whatsapp No":"776692221", 
+		"Viber No":"N/A", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"1454", 
+		"District":"Kandy", 
+		"MOH Area":"Waththegama", 
+		"Name of the Pharmacy":"Deegayu Pharmacy", 
+		"Address":"Kandy Rd, Waththegama", 
+		"Contact No":"703257124", 
+		"Pharmacist Name":"P.H.I.M.K. Sandarenu", 
+		"Owner":"P.H.I.M.K. Sandarenu", 
+		"Whatsapp No":"703257124", 
+		"Viber No":"N/A", 
+		"E mail":"lankani.sadha@gmail.com"
+	},
+	{
 		"No":"763", 
 		"District":"Kandy", 
 		"MOH Area":"Waththegama", 
@@ -11114,6 +12583,19 @@
 		"E mail":"madawalaphama@gmail.com"
 	},
 	{
+		"No":"1455", 
+		"District":"Kandy", 
+		"MOH Area":"Waththegama", 
+		"Name of the Pharmacy":"New Lanka Medical", 
+		"Address":"5, Kandy Rd, Waththegama", 
+		"Contact No":"776743973", 
+		"Pharmacist Name":"D.C.Chandrasekara", 
+		"Owner":"H.M.S.P. Chandrasekara", 
+		"Whatsapp No":"770192109", 
+		"Viber No":"N/A", 
+		"E mail":"newlankamedical@gmail.com"
+	},
+	{
 		"No":"765", 
 		"District":"Kandy", 
 		"MOH Area":"Waththegama", 
@@ -11125,6 +12607,45 @@
 		"Whatsapp No":"777822810", 
 		"Viber No":"777822810", 
 		"E mail":"skesawa@gmail.com"
+	},
+	{
+		"No":"1456", 
+		"District":"Kandy", 
+		"MOH Area":"Waththegama", 
+		"Name of the Pharmacy":"Pathirana Pharmacy", 
+		"Address":"21/A, Hapukotuwa, Jambugahapitiya", 
+		"Contact No":"760661087", 
+		"Pharmacist Name":"Ruwan Warnasooriya", 
+		"Owner":"G.S.D.Pathirana", 
+		"Whatsapp No":"753011272", 
+		"Viber No":"N/A", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"1457", 
+		"District":"Kandy", 
+		"MOH Area":"Waththegama", 
+		"Name of the Pharmacy":"Sandamini Pharmacy", 
+		"Address":"17, Mathale Rd, Ambathenna", 
+		"Contact No":"771124284", 
+		"Pharmacist Name":"C.Samantha Kumari", 
+		"Owner":"C.Samantha Kumari", 
+		"Whatsapp No":"N/A", 
+		"Viber No":"771124284", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"1458", 
+		"District":"Kandy", 
+		"MOH Area":"Waththegama", 
+		"Name of the Pharmacy":"Tesco Drug &amp; Multy Store", 
+		"Address":"170/A, Kandy Rd, Madawala Bazaar", 
+		"Contact No":"812060667", 
+		"Pharmacist Name":"J.Irfana", 
+		"Owner":"J.M.Jimsy", 
+		"Whatsapp No":"773503252", 
+		"Viber No":"N/A", 
+		"E mail":"jmjimsy@gmail.com"
 	},
 	{
 		"No":"766", 
@@ -11151,6 +12672,32 @@
 		"Whatsapp No":"718392828", 
 		"Viber No":"N/A", 
 		"E mail":"udathalawinna.medical@gmail.com"
+	},
+	{
+		"No":"1459", 
+		"District":"Kandy", 
+		"MOH Area":"Werallagama", 
+		"Name of the Pharmacy":"Madara Pharmacy", 
+		"Address":"Medawala, Harispaththuwa", 
+		"Contact No":"774525915", 
+		"Pharmacist Name":"Madara Rajakaruna", 
+		"Owner":"N/A", 
+		"Whatsapp No":"N/A", 
+		"Viber No":"N/A", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"1460", 
+		"District":"Kandy", 
+		"MOH Area":"Werallagama", 
+		"Name of the Pharmacy":"Tharumina Pharmacy", 
+		"Address":"433,Wathuwala, Katugasthota", 
+		"Contact No":"763346456", 
+		"Pharmacist Name":"H.M.L.Herath", 
+		"Owner":"H.M.L.N.Ranathunge", 
+		"Whatsapp No":"763346456", 
+		"Viber No":"N/A", 
+		"E mail":"N/A"
 	},
 	{
 		"No":"768", 
@@ -11231,6 +12778,19 @@
 		"E mail":"N/A"
 	},
 	{
+		"No":"1461", 
+		"District":"Kandy", 
+		"MOH Area":"Yatinuwara", 
+		"Name of the Pharmacy":"D.G.Super Drugs&amp; Groceries", 
+		"Address":"623/a Ilukwatta, kadugannawa.", 
+		"Contact No":"719990885", 
+		"Pharmacist Name":"G.P.Gunawardana", 
+		"Owner":"G.P.Gunawardana", 
+		"Whatsapp No":"719990885", 
+		"Viber No":"N/A", 
+		"E mail":"dgsuperdrugs@gmail.com"
+	},
+	{
 		"No":"774", 
 		"District":"Kandy", 
 		"MOH Area":"Yatinuwara", 
@@ -11257,6 +12817,32 @@
 		"E mail":"N/A"
 	},
 	{
+		"No":"1462", 
+		"District":"Kandy", 
+		"MOH Area":"Yatinuwara", 
+		"Name of the Pharmacy":"Kandy Pharma Chemist", 
+		"Address":"229/3, Colombo rd, Pilimathalawa", 
+		"Contact No":"777976415", 
+		"Pharmacist Name":"K.H.U.K.Wijewardana", 
+		"Owner":"K.H.U.K.Wijewardana", 
+		"Whatsapp No":"775022121", 
+		"Viber No":"775022121", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"1463", 
+		"District":"Kandy", 
+		"MOH Area":"Yatinuwara", 
+		"Name of the Pharmacy":"Laksanda Pharmacy", 
+		"Address":"polagahamula Junction, Peradeniya", 
+		"Contact No":"714430316", 
+		"Pharmacist Name":"H.M.A.N.Karunarathne", 
+		"Owner":"H.M.A.N.Karunarathne", 
+		"Whatsapp No":"775664542", 
+		"Viber No":"714430316", 
+		"E mail":"karunaratne62@gmail.com"
+	},
+	{
 		"No":"776", 
 		"District":"Kandy", 
 		"MOH Area":"Yatinuwara", 
@@ -11270,6 +12856,19 @@
 		"E mail":"N/A"
 	},
 	{
+		"No":"1464", 
+		"District":"Kandy", 
+		"MOH Area":"Yatinuwara", 
+		"Name of the Pharmacy":"Peradeniya Medical", 
+		"Address":"110, Colombo Rd, Peradeniya", 
+		"Contact No":"812384336", 
+		"Pharmacist Name":"S.B. Medagama", 
+		"Owner":"N.P.K.Wijenayake", 
+		"Whatsapp No":"770443884", 
+		"Viber No":"770443884", 
+		"E mail":"kusumwijenayake@gmail.com"
+	},
+	{
 		"No":"777", 
 		"District":"Kandy", 
 		"MOH Area":"Yatinuwara", 
@@ -11281,6 +12880,19 @@
 		"Whatsapp No":"777463094", 
 		"Viber No":"N/A", 
 		"E mail":"pubudupharmacy@yahoo.com"
+	},
+	{
+		"No":"1465", 
+		"District":"Kandy", 
+		"MOH Area":"Yatinuwara", 
+		"Name of the Pharmacy":"Rathna Pharmacy", 
+		"Address":"748/b, Henawala,Kadugannawa", 
+		"Contact No":"812570128", 
+		"Pharmacist Name":"Lalith Karunarathne", 
+		"Owner":"H.Rathnayake", 
+		"Whatsapp No":"714152590", 
+		"Viber No":"N/A", 
+		"E mail":"mirana1979@gmail.com"
 	},
 	{
 		"No":"778", 
@@ -11660,6 +13272,19 @@
 		"E mail":"info@nsos.lk"
 	},
 	{
+		"No":"1466", 
+		"District":"Kegalle", 
+		"MOH Area":"Kegalle", 
+		"Name of the Pharmacy":"Rainbow Pharmacy", 
+		"Address":"No 261, Mainstreet, Kegalle", 
+		"Contact No":"718231488", 
+		"Pharmacist Name":"M.D.M.P.I.S.Maahawithana", 
+		"Owner":"N/A", 
+		"Whatsapp No":"718231488", 
+		"Viber No":"N/A", 
+		"E mail":"N/A"
+	},
+	{
 		"No":"802", 
 		"District":"Kegalle", 
 		"MOH Area":"Kegalle", 
@@ -11721,6 +13346,19 @@
 		"Pharmacist Name":"S.F. Shifna", 
 		"Owner":"M.B.M. Zarook", 
 		"Whatsapp No":"N/A", 
+		"Viber No":"N/A", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"1467", 
+		"District":"Kegalle", 
+		"MOH Area":"Mawanella", 
+		"Name of the Pharmacy":"Rainbow Pharmacy", 
+		"Address":"Corporative Building Main St Mawanella", 
+		"Contact No":"760613427", 
+		"Pharmacist Name":"M.G.N.P Aththanayake", 
+		"Owner":"N/A", 
+		"Whatsapp No":"760613427", 
 		"Viber No":"N/A", 
 		"E mail":"N/A"
 	},
@@ -12089,6 +13727,19 @@
 		"E mail":"N/A"
 	},
 	{
+		"No":"1468", 
+		"District":"Kurunegala", 
+		"MOH Area":"Bingiriya", 
+		"Name of the Pharmacy":"Suvini Pharmacy", 
+		"Address":"Murukandiya, Bingiriya.", 
+		"Contact No":"776008182", 
+		"Pharmacist Name":"P. Nadaraja", 
+		"Owner":"C.P.S.Bandara", 
+		"Whatsapp No":"776008182", 
+		"Viber No":"776008182", 
+		"E mail":"sarathbandara43@gmail.com"
+	},
+	{
 		"No":"831", 
 		"District":"Kurunegala", 
 		"MOH Area":"Galgamuwa", 
@@ -12115,6 +13766,19 @@
 		"E mail":"N/A"
 	},
 	{
+		"No":"1469", 
+		"District":"Kurunegala", 
+		"MOH Area":"Galgamuwa", 
+		"Name of the Pharmacy":"Seth Pharmacy", 
+		"Address":"Ehetuwewa", 
+		"Contact No":"77240838", 
+		"Pharmacist Name":"H.M.T.N. Abesingha", 
+		"Owner":"H.M.T.N. Abesingha", 
+		"Whatsapp No":"77240838", 
+		"Viber No":"77240838", 
+		"E mail":"avingueranga55@gmail.com"
+	},
+	{
 		"No":"833", 
 		"District":"Kurunegala", 
 		"MOH Area":"Galgamuwa", 
@@ -12139,6 +13803,19 @@
 		"Whatsapp No":"777145691", 
 		"Viber No":"777145691", 
 		"E mail":"thilinamedi@gmail.com"
+	},
+	{
+		"No":"1470", 
+		"District":"Kurunegala", 
+		"MOH Area":"Ganewaththa", 
+		"Name of the Pharmacy":"Sageetha Pharmacy", 
+		"Address":"No 05, Madagalla Road, Kubukgate", 
+		"Contact No":"713399602", 
+		"Pharmacist Name":"M.A. Githika", 
+		"Owner":"M.A. Githika", 
+		"Whatsapp No":"713399602", 
+		"Viber No":"713399602", 
+		"E mail":"sageetharmacy@gmail.com"
 	},
 	{
 		"No":"835", 
@@ -12258,6 +13935,19 @@
 		"E mail":"hakpukhettiarachchi@gmail.com"
 	},
 	{
+		"No":"1471", 
+		"District":"Kurunegala", 
+		"MOH Area":"Kurunegala", 
+		"Name of the Pharmacy":"N.S. Pharmacticals Pvt Ltd", 
+		"Address":"125, Wilgoda Road , Kurunegala", 
+		"Contact No":"716904455", 
+		"Pharmacist Name":"Hemantha Premathilaka", 
+		"Owner":"Nadika Hettiarchchi", 
+		"Whatsapp No":"716904455", 
+		"Viber No":"716904455", 
+		"E mail":"hanhettiarachchi@gmail.com"
+	},
+	{
 		"No":"844", 
 		"District":"Kurunegala", 
 		"MOH Area":"Kurunegala", 
@@ -12297,17 +13987,30 @@
 		"E mail":"suwanamedicals@gmail.com"
 	},
 	{
-		"No":"847", 
+		"No":"1472", 
 		"District":"Kurunegala", 
-		"MOH Area":"Kurunegala MC", 
-		"Name of the Pharmacy":"Osusala, Kurunegala", 
-		"Address":"No. 28 Bauddaloka Mawatha, Kurunegala", 
-		"Contact No":"718752001", 
-		"Pharmacist Name":"V.U.M. wikramasingha", 
-		"Owner":"Rajya Osusala", 
-		"Whatsapp No":"718752001", 
+		"MOH Area":"Kurunegala", 
+		"Name of the Pharmacy":"Tharindu Pharmacy", 
+		"Address":"Negombo Road,Aluth Malkaduwawa, Kurunegala", 
+		"Contact No":"713077809", 
+		"Pharmacist Name":"W P Indrarathna", 
+		"Owner":"W P Indrarathna", 
+		"Whatsapp No":"713552558", 
 		"Viber No":"N/A", 
-		"E mail":"kurunegala@gmail.com"
+		"E mail":"thrimadders@gmail.com"
+	},
+	{
+		"No":"1473", 
+		"District":"Kurunegala", 
+		"MOH Area":"Kurunegala", 
+		"Name of the Pharmacy":"Wallawa Medical", 
+		"Address":"Heripitiya Road, Wellawa", 
+		"Contact No":"774461996", 
+		"Pharmacist Name":"A.U. Samarasinge", 
+		"Owner":"R.M.H.Ranwala", 
+		"Whatsapp No":"774461996", 
+		"Viber No":"774461996", 
+		"E mail":"maduka.drl@gmail.com"
 	},
 	{
 		"No":"848", 
@@ -12321,6 +14024,19 @@
 		"Whatsapp No":"714283264", 
 		"Viber No":"N/A", 
 		"E mail":"geethikacp7@gmail.com"
+	},
+	{
+		"No":"847", 
+		"District":"Kurunegala", 
+		"MOH Area":"Kurunegala MC", 
+		"Name of the Pharmacy":"Osusala, Kurunegala", 
+		"Address":"No. 28 Bauddaloka Mawatha, Kurunegala", 
+		"Contact No":"718752001", 
+		"Pharmacist Name":"V.U.M. wikramasingha", 
+		"Owner":"Rajya Osusala", 
+		"Whatsapp No":"718752001", 
+		"Viber No":"N/A", 
+		"E mail":"kurunegala@gmail.com"
 	},
 	{
 		"No":"849", 
@@ -12375,6 +14091,19 @@
 		"E mail":"N/A"
 	},
 	{
+		"No":"1474", 
+		"District":"Kurunegala", 
+		"MOH Area":"Maho", 
+		"Name of the Pharmacy":"Sadunsetha Pharmacy", 
+		"Address":"Nagollagama, Maho", 
+		"Contact No":"775519034", 
+		"Pharmacist Name":"R.M.S.C. Ranasinha", 
+		"Owner":"R.M.S.C. Ranasinha", 
+		"Whatsapp No":"775519034", 
+		"Viber No":"775519034", 
+		"E mail":"sagdunsethapharmacy@gmail.com"
+	},
+	{
 		"No":"853", 
 		"District":"Kurunegala", 
 		"MOH Area":"Mallawapitiya", 
@@ -12386,6 +14115,19 @@
 		"Whatsapp No":"N/A", 
 		"Viber No":"N/A", 
 		"E mail":"N/A"
+	},
+	{
+		"No":"1475", 
+		"District":"Kurunegala", 
+		"MOH Area":"Mawathagama", 
+		"Name of the Pharmacy":"Central Lanka Pharmacy", 
+		"Address":"5, Kandy Road, Mawathagama.", 
+		"Contact No":"717711048", 
+		"Pharmacist Name":"Fathima Farwin", 
+		"Owner":"M.H.M.Shafraz", 
+		"Whatsapp No":"717711048", 
+		"Viber No":"717711048", 
+		"E mail":"mohamedmisraz75@gmail.com"
 	},
 	{
 		"No":"854", 
@@ -12427,19 +14169,6 @@
 		"E mail":"N/A"
 	},
 	{
-		"No":"857", 
-		"District":"Kurunegala", 
-		"MOH Area":"Pannala", 
-		"Name of the Pharmacy":"Sisira Pharmacy", 
-		"Address":"No 09, Main Street, Giriulla", 
-		"Contact No":"776464978", 
-		"Pharmacist Name":"N/A", 
-		"Owner":"SASA Premarathna", 
-		"Whatsapp No":"776464978", 
-		"Viber No":"N/A", 
-		"E mail":"N/A"
-	},
-	{
 		"No":"858", 
 		"District":"Kurunegala", 
 		"MOH Area":"Narammala", 
@@ -12464,6 +14193,19 @@
 		"Whatsapp No":"N/A", 
 		"Viber No":"N/A", 
 		"E mail":"N/A"
+	},
+	{
+		"No":"1476", 
+		"District":"Kurunegala", 
+		"MOH Area":"Narammala", 
+		"Name of the Pharmacy":"The Anu Pharmacy", 
+		"Address":"Wariyapola Road, Kalugamuwa.", 
+		"Contact No":"717922169", 
+		"Pharmacist Name":"W.U. Kumudumali", 
+		"Owner":"A.M.Buddika Karunarathna", 
+		"Whatsapp No":"717922169", 
+		"Viber No":"717922169", 
+		"E mail":"buddikakarunarthne123@gmail.com"
 	},
 	{
 		"No":"860", 
@@ -12544,6 +14286,32 @@
 		"E mail":"N/A"
 	},
 	{
+		"No":"1477", 
+		"District":"Kurunegala", 
+		"MOH Area":"Pannala", 
+		"Name of the Pharmacy":"Arogya Medicals", 
+		"Address":"19, Negombo Road, Giriulla.", 
+		"Contact No":"713398826", 
+		"Pharmacist Name":"K.H.P. Priyantha", 
+		"Owner":"K.H.P.Priyantha", 
+		"Whatsapp No":"713398826", 
+		"Viber No":"713398826", 
+		"E mail":"priyanthak2net@gmail.com"
+	},
+	{
+		"No":"1478", 
+		"District":"Kurunegala", 
+		"MOH Area":"Pannala", 
+		"Name of the Pharmacy":"New Seth Pharmacy", 
+		"Address":"Puskoladeniya, Giriulla.", 
+		"Contact No":"764508032", 
+		"Pharmacist Name":"M.A.P. Perera", 
+		"Owner":"M.A.P.Perera", 
+		"Whatsapp No":"764508032", 
+		"Viber No":"764508032", 
+		"E mail":"newsethpharmacy@gmail.com"
+	},
+	{
 		"No":"867", 
 		"District":"Kurunegala", 
 		"MOH Area":"Pannala", 
@@ -12568,6 +14336,19 @@
 		"Whatsapp No":"786619513", 
 		"Viber No":"N/A", 
 		"E mail":"www.amarasingher341@gmail.com"
+	},
+	{
+		"No":"857", 
+		"District":"Kurunegala", 
+		"MOH Area":"Pannala", 
+		"Name of the Pharmacy":"Sisira Pharmacy", 
+		"Address":"No 09, Main Street, Giriulla", 
+		"Contact No":"776464978", 
+		"Pharmacist Name":"N/A", 
+		"Owner":"SASA Premarathna", 
+		"Whatsapp No":"776464978", 
+		"Viber No":"N/A", 
+		"E mail":"N/A"
 	},
 	{
 		"No":"868", 
@@ -12633,6 +14414,19 @@
 		"Whatsapp No":"768432969", 
 		"Viber No":"768432969", 
 		"E mail":"isurapharmacy1995@gmail.com"
+	},
+	{
+		"No":"1479", 
+		"District":"Kurunegala", 
+		"MOH Area":"Udubaddawa", 
+		"Name of the Pharmacy":"New Wayamba Chemist", 
+		"Address":"129, Main Street, Dummalasooriya.", 
+		"Contact No":"712971498", 
+		"Pharmacist Name":"N.D. Chandrathilaka", 
+		"Owner":"L.S.N. Karunathilaka", 
+		"Whatsapp No":"712971498", 
+		"Viber No":"712971498", 
+		"E mail":"ishnakarunathilaka@gmail.com"
 	},
 	{
 		"No":"871", 
@@ -14091,6 +15885,32 @@
 		"E mail":"yahoohmchamari89@gmail.com"
 	},
 	{
+		"No":"1480", 
+		"District":"Monaragala", 
+		"MOH Area":"Bibile", 
+		"Name of the Pharmacy":"Danasiri pharmacy", 
+		"Address":"Bibile", 
+		"Contact No":"718997066", 
+		"Pharmacist Name":"W.M.R.P wimalarhtna", 
+		"Owner":"G.C.S .Garusinha", 
+		"Whatsapp No":"718997066", 
+		"Viber No":"718997066", 
+		"E mail":"kelum120@gmail.com"
+	},
+	{
+		"No":"1481", 
+		"District":"Monaragala", 
+		"MOH Area":"Bibile", 
+		"Name of the Pharmacy":"Nilmini pharmacy", 
+		"Address":"Bibile", 
+		"Contact No":"715910200", 
+		"Pharmacist Name":"Sarahta jayawardana", 
+		"Owner":"Suneethre bibile", 
+		"Whatsapp No":"778437644", 
+		"Viber No":"778437644", 
+		"E mail":"gajanayakasurangadubai@gmail.com"
+	},
+	{
 		"No":"989", 
 		"District":"Monaragala", 
 		"MOH Area":"Bibile", 
@@ -14104,6 +15924,19 @@
 		"E mail":"N/A"
 	},
 	{
+		"No":"1482", 
+		"District":"Monaragala", 
+		"MOH Area":"Bibile", 
+		"Name of the Pharmacy":"St. Anne&#39;s Pharmacy", 
+		"Address":"Bibile", 
+		"Contact No":"772971800", 
+		"Pharmacist Name":"H.E.P.K Edirappuly", 
+		"Owner":"K.M.C. Bandara", 
+		"Whatsapp No":"772971800", 
+		"Viber No":"772971800", 
+		"E mail":"yahoohmchamari89@gmail.com"
+	},
+	{
 		"No":"990", 
 		"District":"Monaragala", 
 		"MOH Area":"Buttala", 
@@ -14112,6 +15945,19 @@
 		"Contact No":"716621289", 
 		"Pharmacist Name":"R.M.A.N. Dissanayaka", 
 		"Owner":"D.M.M. Dissanayaka", 
+		"Whatsapp No":"777918286", 
+		"Viber No":"777918286", 
+		"E mail":"buttalapharmacy @gmail.com"
+	},
+	{
+		"No":"1483", 
+		"District":"Monaragala", 
+		"MOH Area":"Buttala", 
+		"Name of the Pharmacy":"Buttala Pharmacy", 
+		"Address":"Buttala", 
+		"Contact No":"716621289", 
+		"Pharmacist Name":"R.M.A.N. Dissanayaka", 
+		"Owner":"D.M.M.Dissanayaka", 
 		"Whatsapp No":"777918286", 
 		"Viber No":"777918286", 
 		"E mail":"buttalapharmacy @gmail.com"
@@ -14208,6 +16054,19 @@
 		"E mail":"wwwgunajeevasudarshan@gmail.com"
 	},
 	{
+		"No":"1484", 
+		"District":"Monaragala", 
+		"MOH Area":"Monaragala", 
+		"Name of the Pharmacy":"Boodi pharmacy", 
+		"Address":"Sirigala monaragala", 
+		"Contact No":"788489088", 
+		"Pharmacist Name":"K.A Gunarathna", 
+		"Owner":"D.M .Senawirathna", 
+		"Whatsapp No":"788489088", 
+		"Viber No":"788489088", 
+		"E mail":"N/A"
+	},
+	{
 		"No":"998", 
 		"District":"Monaragala", 
 		"MOH Area":"Monaragala", 
@@ -14219,6 +16078,19 @@
 		"Whatsapp No":"777584508", 
 		"Viber No":"777584508", 
 		"E mail":"rmgrbandara@gmail.com"
+	},
+	{
+		"No":"1485", 
+		"District":"Monaragala", 
+		"MOH Area":"Monaragala", 
+		"Name of the Pharmacy":"New sawsiri pharmacy", 
+		"Address":"Monaragala", 
+		"Contact No":"779302902", 
+		"Pharmacist Name":"S. Abedeera", 
+		"Owner":"Chandimal abedeera", 
+		"Whatsapp No":"779302902", 
+		"Viber No":"779302902", 
+		"E mail":"chandimalabiydeera82@gmail.com"
 	},
 	{
 		"No":"999", 
@@ -14234,6 +16106,32 @@
 		"E mail":"N/A"
 	},
 	{
+		"No":"1486", 
+		"District":"Monaragala", 
+		"MOH Area":"Monaragala", 
+		"Name of the Pharmacy":"Sethsiri pharmacy", 
+		"Address":"Sirigala Monaragala", 
+		"Contact No":"714056020", 
+		"Pharmacist Name":"Shameera madusanka", 
+		"Owner":"Amila Abedeera", 
+		"Whatsapp No":"779017532", 
+		"Viber No":"779017532", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"1487", 
+		"District":"Monaragala", 
+		"MOH Area":"Monaragla", 
+		"Name of the Pharmacy":"New sawsiri pharmacy", 
+		"Address":"Monaragala", 
+		"Contact No":"779302902", 
+		"Pharmacist Name":"S. Abedeera", 
+		"Owner":"Chandimal abedeera", 
+		"Whatsapp No":"779302902", 
+		"Viber No":"779302902", 
+		"E mail":"chandimalabiydeera82@gmail.com"
+	},
+	{
 		"No":"1000", 
 		"District":"Monaragala", 
 		"MOH Area":"Sevanagala", 
@@ -14245,6 +16143,45 @@
 		"Whatsapp No":"766212908", 
 		"Viber No":"766212908", 
 		"E mail":"p.a.d.u.chathuraganishanthaindragith@gmail.com"
+	},
+	{
+		"No":"1488", 
+		"District":"Monaragala", 
+		"MOH Area":"Sevanagala", 
+		"Name of the Pharmacy":"Kalana Pharmacy", 
+		"Address":"Sevanagala", 
+		"Contact No":"766212908", 
+		"Pharmacist Name":"U. Chathuranga", 
+		"Owner":"P.A,Chathuranga", 
+		"Whatsapp No":"766212908", 
+		"Viber No":"766212908", 
+		"E mail":"p.a.d.u.chathuraganishanthaindragith@gmail.com"
+	},
+	{
+		"No":"1489", 
+		"District":"Monaragala", 
+		"MOH Area":"Sevanagala", 
+		"Name of the Pharmacy":"Rajapaksha pharmacy", 
+		"Address":"Sevanagala", 
+		"Contact No":"714829002", 
+		"Pharmacist Name":"Nirasha hemanthi", 
+		"Owner":"O.S.Rajapaksha", 
+		"Whatsapp No":"715819652", 
+		"Viber No":"715819652", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"1490", 
+		"District":"Monaragala", 
+		"MOH Area":"Sevanagala", 
+		"Name of the Pharmacy":"Siriwardana pharmacy", 
+		"Address":"Sevanagala", 
+		"Contact No":"767064505", 
+		"Pharmacist Name":"Nimal Bandara", 
+		"Owner":"S.P.Jayantha", 
+		"Whatsapp No":"767064505", 
+		"Viber No":"767064505", 
+		"E mail":"siriwardanapharmacy@gmail.com"
 	},
 	{
 		"No":"1001", 
@@ -14286,6 +16223,19 @@
 		"E mail":"N/A"
 	},
 	{
+		"No":"1491", 
+		"District":"Monaragala", 
+		"MOH Area":"Thanamalwila", 
+		"Name of the Pharmacy":"Lanka pharmacy", 
+		"Address":"Thanamalwila", 
+		"Contact No":"713726272", 
+		"Pharmacist Name":"K.M.Rathnayaka", 
+		"Owner":"K.A,Hemamala", 
+		"Whatsapp No":"713726272", 
+		"Viber No":"713726272", 
+		"E mail":"N/A"
+	},
+	{
 		"No":"1004", 
 		"District":"Monaragala", 
 		"MOH Area":"Thanamalwila", 
@@ -14307,6 +16257,19 @@
 		"Contact No":"718476848", 
 		"Pharmacist Name":"Thanuja Nirangi", 
 		"Owner":"Rasika Chandana", 
+		"Whatsapp No":"718476848", 
+		"Viber No":"718476848", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"1492", 
+		"District":"Monaragala", 
+		"MOH Area":"Thanamalwila", 
+		"Name of the Pharmacy":"Rasika pharmacy", 
+		"Address":"Thanamalwila", 
+		"Contact No":"718476848", 
+		"Pharmacist Name":"Thanuja nirangi", 
+		"Owner":"Rasika chandana", 
 		"Whatsapp No":"718476848", 
 		"Viber No":"718476848", 
 		"E mail":"N/A"
@@ -14336,6 +16299,19 @@
 		"Whatsapp No":"773912429", 
 		"Viber No":"N/A", 
 		"E mail":"kodikaraj@gmail.com"
+	},
+	{
+		"No":"1493", 
+		"District":"Monaragala", 
+		"MOH Area":"Wellawaya", 
+		"Name of the Pharmacy":"Manahara pharmacy", 
+		"Address":"Wellawaya", 
+		"Contact No":"770395850", 
+		"Pharmacist Name":"K.D.Darmasena", 
+		"Owner":"R.M.Puspakumara", 
+		"Whatsapp No":"770395850", 
+		"Viber No":"770395850", 
+		"E mail":"N/A"
 	},
 	{
 		"No":"1008", 
@@ -15404,6 +17380,19 @@
 		"E mail":"N/A"
 	},
 	{
+		"No":"1494", 
+		"District":"Puttalam", 
+		"MOH Area":"Anamaduwa", 
+		"Name of the Pharmacy":"Luxary Pharmacy", 
+		"Address":"Opposite Hospital, Anamaduwa", 
+		"Contact No":"715618884", 
+		"Pharmacist Name":"N/A", 
+		"Owner":"N/A", 
+		"Whatsapp No":"715618884", 
+		"Viber No":"715618884", 
+		"E mail":"N/A"
+	},
+	{
 		"No":"1053", 
 		"District":"Puttalam", 
 		"MOH Area":"Anamaduwa", 
@@ -15430,6 +17419,32 @@
 		"E mail":"N/A"
 	},
 	{
+		"No":"1495", 
+		"District":"Puttalam", 
+		"MOH Area":"Arachchikattuwa", 
+		"Name of the Pharmacy":"CNS Pharmacy", 
+		"Address":"Puttalam Road, Bangadeniya", 
+		"Contact No":"773985350", 
+		"Pharmacist Name":"N/A", 
+		"Owner":"N/A", 
+		"Whatsapp No":"773985350", 
+		"Viber No":"N/A", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"1496", 
+		"District":"Puttalam", 
+		"MOH Area":"Arachchikattuwa", 
+		"Name of the Pharmacy":"New Luck Medical", 
+		"Address":"Anamaduwa Road, Kumarawattuwa", 
+		"Contact No":"771873840", 
+		"Pharmacist Name":"N/A", 
+		"Owner":"N/A", 
+		"Whatsapp No":"770256641", 
+		"Viber No":"N/A", 
+		"E mail":"N/A"
+	},
+	{
 		"No":"1055", 
 		"District":"Puttalam", 
 		"MOH Area":"Chilaw", 
@@ -15440,6 +17455,19 @@
 		"Owner":"N/A", 
 		"Whatsapp No":"711383738", 
 		"Viber No":"711383738", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"1497", 
+		"District":"Puttalam", 
+		"MOH Area":"Chilaw", 
+		"Name of the Pharmacy":"JS Pharmacy", 
+		"Address":"Kanjukkuliya, Mugunuwatawana, Chilaw", 
+		"Contact No":"718119599", 
+		"Pharmacist Name":"N/A", 
+		"Owner":"N/A", 
+		"Whatsapp No":"718119599", 
+		"Viber No":"718119599", 
 		"E mail":"N/A"
 	},
 	{
@@ -15466,6 +17494,19 @@
 		"Owner":"N/A", 
 		"Whatsapp No":"704682500", 
 		"Viber No":"N/A", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"1498", 
+		"District":"Puttalam", 
+		"MOH Area":"Chilaw", 
+		"Name of the Pharmacy":"Suwaya Hospital (Pvt) Ltd", 
+		"Address":"No. 16, Kurunegala Road, Chilaw", 
+		"Contact No":"771668277", 
+		"Pharmacist Name":"N/A", 
+		"Owner":"N/A", 
+		"Whatsapp No":"771668277", 
+		"Viber No":"771668277", 
 		"E mail":"N/A"
 	},
 	{
@@ -15612,6 +17653,19 @@
 		"E mail":"N/A"
 	},
 	{
+		"No":"1499", 
+		"District":"Puttalam", 
+		"MOH Area":"Karuwalagaswewa", 
+		"Name of the Pharmacy":"Anew Apolo Pharmacy &amp; Family Care", 
+		"Address":"Nawagaththegama", 
+		"Contact No":"712213361", 
+		"Pharmacist Name":"N/A", 
+		"Owner":"N/A", 
+		"Whatsapp No":"712213361", 
+		"Viber No":"N/A", 
+		"E mail":"N/A"
+	},
+	{
 		"No":"1069", 
 		"District":"Puttalam", 
 		"MOH Area":"Madampe", 
@@ -15661,6 +17715,19 @@
 		"Owner":"N/A", 
 		"Whatsapp No":"N/A", 
 		"Viber No":"N/A", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"1500", 
+		"District":"Puttalam", 
+		"MOH Area":"Mahawewa", 
+		"Name of the Pharmacy":"Araliya Pharmacy", 
+		"Address":"Church Road, Marawila", 
+		"Contact No":"775773480", 
+		"Pharmacist Name":"N/A", 
+		"Owner":"N/A", 
+		"Whatsapp No":"N/A", 
+		"Viber No":"767573480", 
 		"E mail":"N/A"
 	},
 	{
@@ -15820,6 +17887,19 @@
 		"E mail":"N/A"
 	},
 	{
+		"No":"1501", 
+		"District":"Puttalam", 
+		"MOH Area":"Mundalama", 
+		"Name of the Pharmacy":"Lucky Pharmacy &amp; Grocery", 
+		"Address":"Thoduwewa Road, Kadayamottai, Madurankuliya", 
+		"Contact No":"766266563", 
+		"Pharmacist Name":"N/A", 
+		"Owner":"N/A", 
+		"Whatsapp No":"766266563", 
+		"Viber No":"766266563", 
+		"E mail":"N/A"
+	},
+	{
 		"No":"1084", 
 		"District":"Puttalam", 
 		"MOH Area":"Mundalama", 
@@ -15921,6 +18001,32 @@
 		"Owner":"N/A", 
 		"Whatsapp No":"N/A", 
 		"Viber No":"N/A", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"1502", 
+		"District":"Puttalam", 
+		"MOH Area":"Nattandiya", 
+		"Name of the Pharmacy":"Narawila Pharmacy", 
+		"Address":"Marawila, Koswattha", 
+		"Contact No":"715901931", 
+		"Pharmacist Name":"N/A", 
+		"Owner":"N/A", 
+		"Whatsapp No":"715901931", 
+		"Viber No":"715901931", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"1503", 
+		"District":"Puttalam", 
+		"MOH Area":"Nattandiya", 
+		"Name of the Pharmacy":"New Kottaranamulla Pharmacy", 
+		"Address":"Negombo Road, Kottaramulla", 
+		"Contact No":"767630585", 
+		"Pharmacist Name":"N/A", 
+		"Owner":"N/A", 
+		"Whatsapp No":"767630585", 
+		"Viber No":"767630585", 
 		"E mail":"N/A"
 	},
 	{
@@ -16051,6 +18157,19 @@
 		"Owner":"N/A", 
 		"Whatsapp No":"N/A", 
 		"Viber No":"N/A", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"1504", 
+		"District":"Puttalam", 
+		"MOH Area":"Puttalam", 
+		"Name of the Pharmacy":"Life Pharmacy", 
+		"Address":"82, Marikkar Street, Puttalam", 
+		"Contact No":"322267068", 
+		"Pharmacist Name":"N/A", 
+		"Owner":"N/A", 
+		"Whatsapp No":"750981624", 
+		"Viber No":"750981624", 
 		"E mail":"N/A"
 	},
 	{
@@ -16717,6 +18836,19 @@
 		"E mail":"cndsuper@gmail.com"
 	},
 	{
+		"No":"1505", 
+		"District":"Ratnapura", 
+		"MOH Area":"Ratnapura", 
+		"Name of the Pharmacy":"Arogya Pharmacy", 
+		"Address":"No.291,Main street,Ehaliyagoda", 
+		"Contact No":"776998088", 
+		"Pharmacist Name":"A.D Jeewanthi", 
+		"Owner":"K.A.P.A.S.Kularathna", 
+		"Whatsapp No":"776998088", 
+		"Viber No":"776998088", 
+		"E mail":"arogyapharmacyeheliyagoda@gmail.com"
+	},
+	{
 		"No":"1151", 
 		"District":"Ratnapura", 
 		"MOH Area":"Ratnapura", 
@@ -16860,6 +18992,19 @@
 		"E mail":"senarathkumarapalliyage@gmail.com"
 	},
 	{
+		"No":"1506", 
+		"District":"Trincomalee", 
+		"MOH Area":"Eachchilampatru", 
+		"Name of the Pharmacy":"New Pharmacy", 
+		"Address":"Main Street, Muthur", 
+		"Contact No":"773400504", 
+		"Pharmacist Name":"Mrs.F.Huzna", 
+		"Owner":"A.R.I.BUSLY", 
+		"Whatsapp No":"773400504", 
+		"Viber No":"773400504", 
+		"E mail":"buslyshaya@gmail.com"
+	},
+	{
 		"No":"1162", 
 		"District":"Trincomalee", 
 		"MOH Area":"Kanthale", 
@@ -16873,6 +19018,45 @@
 		"E mail":"nazithrisdha@gmail.com"
 	},
 	{
+		"No":"1507", 
+		"District":"Trincomalee", 
+		"MOH Area":"Kanthale", 
+		"Name of the Pharmacy":"Eastern Pharmacy", 
+		"Address":"14, Main Street, Kantale", 
+		"Contact No":"779784590", 
+		"Pharmacist Name":"A.G.Pushpanandarajah", 
+		"Owner":"D.N.Premawathie", 
+		"Whatsapp No":"779784590", 
+		"Viber No":"779784590", 
+		"E mail":"10easternpharmacy@gmail.com"
+	},
+	{
+		"No":"1508", 
+		"District":"Trincomalee", 
+		"MOH Area":"Kanthale", 
+		"Name of the Pharmacy":"Sampath Pharmacy", 
+		"Address":"19A, Kantale Junction, Kantale", 
+		"Contact No":"778409449", 
+		"Pharmacist Name":"E.M.P.A.D.Ekanayake", 
+		"Owner":"D.G.Thisara Dilshani", 
+		"Whatsapp No":"778409449", 
+		"Viber No":"778409449", 
+		"E mail":"happywasala@gmail.com"
+	},
+	{
+		"No":"1509", 
+		"District":"Trincomalee", 
+		"MOH Area":"Kinniya", 
+		"Name of the Pharmacy":"A.R.Pharmacy", 
+		"Address":"Main Street, Kinniya-3", 
+		"Contact No":"771413838", 
+		"Pharmacist Name":"M.S.M.Najeeb", 
+		"Owner":"A.R.M.Nifras", 
+		"Whatsapp No":"775003899", 
+		"Viber No":"775003899", 
+		"E mail":"arpharmacy2019@gmail.com"
+	},
+	{
 		"No":"1163", 
 		"District":"Trincomalee", 
 		"MOH Area":"Kinniya", 
@@ -16884,6 +19068,110 @@
 		"Whatsapp No":"773710017", 
 		"Viber No":"773710017", 
 		"E mail":"Kinniyapharmacy@gmail.com"
+	},
+	{
+		"No":"1510", 
+		"District":"Trincomalee", 
+		"MOH Area":"Kinniya", 
+		"Name of the Pharmacy":"Kinniya Pharmacy", 
+		"Address":"188, Main Street, Kinniya-3", 
+		"Contact No":"262236835", 
+		"Pharmacist Name":"M.I.M.Sameem", 
+		"Owner":"M.I.M.Sameem", 
+		"Whatsapp No":"773710017", 
+		"Viber No":"773710017", 
+		"E mail":"kinniyapharmacy@gmail.com"
+	},
+	{
+		"No":"1511", 
+		"District":"Trincomalee", 
+		"MOH Area":"Kinniya", 
+		"Name of the Pharmacy":"Newcare Pharmacy", 
+		"Address":"81, Main Street, Kinniya-5", 
+		"Contact No":"778469715", 
+		"Pharmacist Name":"T.Daniel", 
+		"Owner":"A.W.Thoufeek", 
+		"Whatsapp No":"778469715", 
+		"Viber No":"778469715", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"1512", 
+		"District":"Trincomalee", 
+		"MOH Area":"Kuchchaveli", 
+		"Name of the Pharmacy":"M.I.M. Pharmacy", 
+		"Address":"Division N0-3, Main Street, Pulmoddai", 
+		"Contact No":"715361026", 
+		"Pharmacist Name":"H.M.Hariz", 
+		"Owner":"M.I.S.Hussain", 
+		"Whatsapp No":"715361026", 
+		"Viber No":"715883500", 
+		"E mail":"mimpharmacy2@gmail.com"
+	},
+	{
+		"No":"1513", 
+		"District":"Trincomalee", 
+		"MOH Area":"Kurinchakerni", 
+		"Name of the Pharmacy":"Newcare Pharmacy", 
+		"Address":"81, Main Street, Kinniya-5", 
+		"Contact No":"778469715", 
+		"Pharmacist Name":"T.Daniel", 
+		"Owner":"A.W.Thoufeek", 
+		"Whatsapp No":"778469715", 
+		"Viber No":"778469715", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"1514", 
+		"District":"Trincomalee", 
+		"MOH Area":"Muthur", 
+		"Name of the Pharmacy":"New Pharmacy", 
+		"Address":"Main Street, Muthur", 
+		"Contact No":"773400504", 
+		"Pharmacist Name":"Mrs.F.Huzna", 
+		"Owner":"A.R.I.BUSLY", 
+		"Whatsapp No":"773400504", 
+		"Viber No":"773400504", 
+		"E mail":"buslyshaya@gmail.com"
+	},
+	{
+		"No":"1515", 
+		"District":"Trincomalee", 
+		"MOH Area":"Padavisripura", 
+		"Name of the Pharmacy":"Suwasetha Pharmacy", 
+		"Address":"Infront of Hospital, Padavisripura", 
+		"Contact No":"718359080", 
+		"Pharmacist Name":"K.G.S.Priyadarshana", 
+		"Owner":"U.P.B.Dassanayake", 
+		"Whatsapp No":"No whatsup", 
+		"Viber No":"771627329", 
+		"E mail":"samanthasisira1972@gmail.com"
+	},
+	{
+		"No":"1516", 
+		"District":"Trincomalee", 
+		"MOH Area":"Seruvila", 
+		"Name of the Pharmacy":"Sampath Pharmacy", 
+		"Address":"19A, Kantale Junction, Kantale", 
+		"Contact No":"778409449", 
+		"Pharmacist Name":"E.M.P.A.D.Ekanayake", 
+		"Owner":"D.G.Thisara Dilshani", 
+		"Whatsapp No":"778409449", 
+		"Viber No":"778409449", 
+		"E mail":"happywasala@gmail.com"
+	},
+	{
+		"No":"1517", 
+		"District":"Trincomalee", 
+		"MOH Area":"Thampalakamam", 
+		"Name of the Pharmacy":"Nethan Pharmacy", 
+		"Address":"96th Mile post, Mullipothana.", 
+		"Contact No":"775822500", 
+		"Pharmacist Name":"H.M.Jeyathilaka", 
+		"Owner":"A.Aakash", 
+		"Whatsapp No":"775822500", 
+		"Viber No":"775822500", 
+		"E mail":"aakashuma3@gmail.com"
 	},
 	{
 		"No":"1164", 
@@ -16912,6 +19200,32 @@
 		"E mail":"gsmabc@gmail.com"
 	},
 	{
+		"No":"1518", 
+		"District":"Trincomalee", 
+		"MOH Area":"Trincomalee", 
+		"Name of the Pharmacy":"Capitole pharma corner", 
+		"Address":"156, Central road, Trincomalee", 
+		"Contact No":"262224901", 
+		"Pharmacist Name":"G.Sakthymayuran", 
+		"Owner":"G.Sakthymayuran", 
+		"Whatsapp No":"773664741", 
+		"Viber No":"773664741", 
+		"E mail":"gsmabc@gmail.com"
+	},
+	{
+		"No":"1519", 
+		"District":"Trincomalee", 
+		"MOH Area":"Trincomalee", 
+		"Name of the Pharmacy":"S R Medicals", 
+		"Address":"108, Post office Road,Trincomalee", 
+		"Contact No":"262227588", 
+		"Pharmacist Name":"V.Shanmugabavan", 
+		"Owner":"Mrs.S.Lavakumar", 
+		"Whatsapp No":"771011119", 
+		"Viber No":"771011119", 
+		"E mail":"lavankumar96@gmail.com"
+	},
+	{
 		"No":"1166", 
 		"District":"Trincomalee", 
 		"MOH Area":"Trincomalee", 
@@ -16923,6 +19237,32 @@
 		"Whatsapp No":"773206480", 
 		"Viber No":"773206480", 
 		"E mail":"srisaiagency79@mail.com"
+	},
+	{
+		"No":"1520", 
+		"District":"Trincomalee", 
+		"MOH Area":"Trincomalee", 
+		"Name of the Pharmacy":"Sri Sai Medical", 
+		"Address":"785, Ehamparam Road, Uppuveli", 
+		"Contact No":"772628967", 
+		"Pharmacist Name":"M.A.M.Dilrukshi", 
+		"Owner":"S.Sanjeevkanth", 
+		"Whatsapp No":"758888680", 
+		"Viber No":"772628967", 
+		"E mail":"sanjeevkanthsanjeevkanth612@gmail.com"
+	},
+	{
+		"No":"1521", 
+		"District":"Trincomalee", 
+		"MOH Area":"Uppuveli", 
+		"Name of the Pharmacy":"Abi Medicals", 
+		"Address":"123, Ales garden, Nilaveli road, Trincomalee", 
+		"Contact No":"759966883", 
+		"Pharmacist Name":"Mrs.J.J.Sabrina", 
+		"Owner":"T.Nagatheeban", 
+		"Whatsapp No":"759966883", 
+		"Viber No":"753175802", 
+		"E mail":"tnagathiban@gmail.com"
 	},
 	{
 		"No":"1167", 
