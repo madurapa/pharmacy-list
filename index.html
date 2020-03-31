@@ -50,7 +50,8 @@
                         <li>අන්තර්ජාලය හරහා හෝ බෙහෙත් ගෙදරට ගෙන දුන් පසු මුදල් ගෙවන්න.</li>
                     </ol>
                     <p>සැ.යු - මෙහි තිබෙන දත්ත කළමනාකරණය කිරීම සෞඛ්‍ය සහ දේශීය වෛද්‍ය ‍සේවා අමාත්‍යාංශය මගින් සිදු කරන අතර දත්ත නිතර යාවත්කාලීන වේ. ඔබට ලඟම පිහිටි ඔසුසල සොයා ගැනීමට අපහසු නම් පසුව උත්සාහ කර බලන්න.
-                        <small>[<a href="http://bit.ly/slpharm">දත්ත මූලාශ්‍රය</a>] [<a href="http://www.health.gov.lk/">නිළ වෙබ් අඩවිය</a>]</small></p>
+                        <small>[<a href="http://bit.ly/slpharm">දත්ත මූලාශ්‍රය</a>] [<a href="http://www.health.gov.lk/">නිළ වෙබ් අඩවිය</a>]</small>
+                    </p>
                 </div>
             </div>
         </div>
@@ -156,7 +157,7 @@
         });
 
         function renderCel(val) {
-            if (val === undefined)
+            /*if (val === undefined)
                 return '';
             val = val.split(',');
             var html = '';
@@ -166,7 +167,12 @@
                 } else {
                     html += '<a href="tel:' + item.trim() + '">' + item.trim() + '</a> ';
                 }
-            });
+            });*/
+            if (val == 'N/A') {
+                html = 'N/A';
+            } else {
+                html = '<a href="tel:+94' + val + '">+94' + val + '</a> ';
+            }
             return html;
         }
 
