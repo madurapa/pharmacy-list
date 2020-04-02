@@ -175,6 +175,7 @@
             if (val == 'N/A') {
                 html = 'N/A';
             } else {
+                val = parseInt(val, 10);
                 html = '<a href="tel:+94' + val + '">+94' + val + '</a> ';
             }
             return html;
@@ -184,6 +185,7 @@
             if (val == 'N/A') {
                 html = 'N/A';
             } else {
+                val = parseInt(val, 10);
                 html = '<a href="https://api.whatsapp.com/send?phone=+94' + val + '">+94' + val + '</a> ';
             }
             return html;
@@ -193,6 +195,7 @@
             if (val == 'N/A') {
                 html = 'N/A';
             } else {
+                val = parseInt(val, 10);
                 html = '<a href="viber://chat?number=%2B94' + val + '">+94' + val + '</a> ';
             }
             return html;
