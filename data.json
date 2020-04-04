@@ -6304,6 +6304,19 @@
 		"E mail":"N/A"
 	},
 	{
+		"No":"382", 
+		"District":"Galle", 
+		"MOH Area":"Hikkaduwa", 
+		"Name of the Pharmacy":"G.H. Pharmacy", 
+		"Address":"No.36, Kumarakanda, Dodanduwa", 
+		"Contact No":"772289763", 
+		"Pharmacist Name":"N/A", 
+		"Owner":"N/A", 
+		"Whatsapp No":"715947354", 
+		"Viber No":"715947354", 
+		"E mail":"N/A"
+	},
+	{
 		"No":"367", 
 		"District":"Galle", 
 		"MOH Area":"Hikkaduwa", 
@@ -6483,19 +6496,6 @@
 		"Owner":"N/A", 
 		"Whatsapp No":"777203422", 
 		"Viber No":"777203422", 
-		"E mail":"N/A"
-	},
-	{
-		"No":"382", 
-		"District":"Galle", 
-		"MOH Area":"Ratgama", 
-		"Name of the Pharmacy":"G.H. Pharmacy", 
-		"Address":"No.36, Kumarakanda, Dodanduwa", 
-		"Contact No":"772289763", 
-		"Pharmacist Name":"N/A", 
-		"Owner":"N/A", 
-		"Whatsapp No":"715947354", 
-		"Viber No":"715947354", 
 		"E mail":"N/A"
 	},
 	{
@@ -10711,19 +10711,6 @@
 		"E mail":"N/A"
 	},
 	{
-		"No":"558", 
-		"District":"Jaffna", 
-		"MOH Area":"Nallur", 
-		"Name of the Pharmacy":"Sri Murugan Pharmacy", 
-		"Address":"Pointpedro road, Kalviyankadu", 
-		"Contact No":"772299931", 
-		"Pharmacist Name":"T.Balachandran", 
-		"Owner":"P.Vasantharuban", 
-		"Whatsapp No":"710145887", 
-		"Viber No":"710145887", 
-		"E mail":"N/A"
-	},
-	{
 		"No":"559", 
 		"District":"Jaffna", 
 		"MOH Area":"Jaffna", 
@@ -10979,6 +10966,19 @@
 		"Contact No":"N/A", 
 		"Pharmacist Name":"P.Vasantharupan", 
 		"Owner":"N/A", 
+		"Whatsapp No":"710145887", 
+		"Viber No":"710145887", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"558", 
+		"District":"Jaffna", 
+		"MOH Area":"Nallur", 
+		"Name of the Pharmacy":"Sri Murugan Pharmacy", 
+		"Address":"Pointpedro road, Kalviyankadu", 
+		"Contact No":"772299931", 
+		"Pharmacist Name":"T.Balachandran", 
+		"Owner":"P.Vasantharuban", 
 		"Whatsapp No":"710145887", 
 		"Viber No":"710145887", 
 		"E mail":"N/A"
@@ -12297,6 +12297,19 @@
 		"E mail":"N/A"
 	},
 	{
+		"No":"659", 
+		"District":"Kalutara", 
+		"MOH Area":"Panadura", 
+		"Name of the Pharmacy":"Dawn Pharmacy", 
+		"Address":"Main Street, Panadura", 
+		"Contact No":"382231955", 
+		"Pharmacist Name":"Nandasena", 
+		"Owner":"J. Salwatura", 
+		"Whatsapp No":"772252982", 
+		"Viber No":"N/A", 
+		"E mail":"dawnsalwa@live.com"
+	},
+	{
 		"No":"1,661", 
 		"District":"Kalutara", 
 		"MOH Area":"Panadura", 
@@ -12373,6 +12386,19 @@
 		"Whatsapp No":"711047547", 
 		"Viber No":"N/A", 
 		"E mail":"N/A"
+	},
+	{
+		"No":"660", 
+		"District":"Kalutara", 
+		"MOH Area":"Panadura", 
+		"Name of the Pharmacy":"Lanka Pharmacy", 
+		"Address":"245B, Galle Rd, Panadura", 
+		"Contact No":"382244841", 
+		"Pharmacist Name":"A.H.D.S. Suranga", 
+		"Owner":"A.H.D.S. Suranga", 
+		"Whatsapp No":"775781080", 
+		"Viber No":"N/A", 
+		"E mail":"lankapharmacy65@gmail.com"
 	},
 	{
 		"No":"1,667", 
@@ -12488,6 +12514,19 @@
 		"Pharmacist Name":"N/A", 
 		"Owner":"N/A", 
 		"Whatsapp No":"773700140", 
+		"Viber No":"N/A", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"661", 
+		"District":"Kalutara", 
+		"MOH Area":"Panadura", 
+		"Name of the Pharmacy":"Osmaniya Phamacy", 
+		"Address":"Dissala Rd, Panadura", 
+		"Contact No":"382299544", 
+		"Pharmacist Name":"IM.M. Iqbal", 
+		"Owner":"I.M.M. Iqbal", 
+		"Whatsapp No":"N/A", 
 		"Viber No":"N/A", 
 		"E mail":"N/A"
 	},
@@ -12618,45 +12657,6 @@
 		"Pharmacist Name":"N/A", 
 		"Owner":"N/A", 
 		"Whatsapp No":"777200777", 
-		"Viber No":"N/A", 
-		"E mail":"N/A"
-	},
-	{
-		"No":"659", 
-		"District":"Kalutara", 
-		"MOH Area":"Panadura", 
-		"Name of the Pharmacy":"Dawn Pharmacy", 
-		"Address":"Main Street, Panadura", 
-		"Contact No":"382231955", 
-		"Pharmacist Name":"Nandasena", 
-		"Owner":"J. Salwatura", 
-		"Whatsapp No":"772252982", 
-		"Viber No":"N/A", 
-		"E mail":"dawnsalwa@live.com"
-	},
-	{
-		"No":"660", 
-		"District":"Kalutara", 
-		"MOH Area":"Panadura", 
-		"Name of the Pharmacy":"Lanka Pharmacy", 
-		"Address":"245B, Galle Rd, Panadura", 
-		"Contact No":"382244841", 
-		"Pharmacist Name":"A.H.D.S. Suranga", 
-		"Owner":"A.H.D.S. Suranga", 
-		"Whatsapp No":"775781080", 
-		"Viber No":"N/A", 
-		"E mail":"lankapharmacy65@gmail.com"
-	},
-	{
-		"No":"661", 
-		"District":"Kalutara", 
-		"MOH Area":"Panadura", 
-		"Name of the Pharmacy":"Osmaniya Phamacy", 
-		"Address":"Dissala Rd, Panadura", 
-		"Contact No":"382299544", 
-		"Pharmacist Name":"IM.M. Iqbal", 
-		"Owner":"I.M.M. Iqbal", 
-		"Whatsapp No":"N/A", 
 		"Viber No":"N/A", 
 		"E mail":"N/A"
 	},
