@@ -22352,10 +22352,10 @@
 		"MOH Area":"Vavuniya", 
 		"Name of the Pharmacy":"Get well health care", 
 		"Address":"Vavuniya", 
-		"Contact No":"773,134,760", 
+		"Contact No":"773134760", 
 		"Pharmacist Name":"N/A", 
 		"Owner":"N/A", 
-		"Whatsapp No":"773,134,760", 
+		"Whatsapp No":"773134760", 
 		"Viber No":"N/A", 
 		"E mail":"N/A"
 	},
@@ -22365,11 +22365,11 @@
 		"MOH Area":"Vavuniya", 
 		"Name of the Pharmacy":"New Lanka Medicare", 
 		"Address":"30, Hospital Circular Road, Kudiyiruppu, Vavuniya", 
-		"Contact No":"244,930,095", 
+		"Contact No":"244930095", 
 		"Pharmacist Name":"Mrs. Balakulendrakumari Gangatharan", 
 		"Owner":"Mrs. Hamsha Selvanayagam", 
-		"Whatsapp No":"761,020,095", 
-		"Viber No":"761,020,095", 
+		"Whatsapp No":"761020095", 
+		"Viber No":"761020095", 
 		"E mail":"newlankamedicare@gmail.com"
 	},
 	{
@@ -22378,11 +22378,11 @@
 		"MOH Area":"Vavuniya", 
 		"Name of the Pharmacy":"Pills Pharmacy", 
 		"Address":"95, Station Road ,Vavuniya", 
-		"Contact No":"774,468,444", 
+		"Contact No":"774468444", 
 		"Pharmacist Name":"Mr. A. Uthayakumar", 
 		"Owner":"Mr. A. Uthayakumar", 
-		"Whatsapp No":"774,468,444", 
-		"Viber No":"774,468,444", 
+		"Whatsapp No":"774468444", 
+		"Viber No":"774468444", 
 		"E mail":"N/A"
 	},
 	{
@@ -22391,11 +22391,11 @@
 		"MOH Area":"Vavuniya", 
 		"Name of the Pharmacy":"Sivasakthy Pharmacy and Supermarket", 
 		"Address":"32, Bazaar Street, Vavuniya", 
-		"Contact No":"242,222,330", 
+		"Contact No":"242222330", 
 		"Pharmacist Name":"Mrs. P. Jeyadevan", 
 		"Owner":"N. Shanmugarajah", 
-		"Whatsapp No":"777,517,444", 
-		"Viber No":"777,517,444", 
+		"Whatsapp No":"777517444", 
+		"Viber No":"777517444", 
 		"E mail":"sivasakthy.travels@gmail.com, s.sujen4u@gmail.com"
 	},
 	{
@@ -22404,11 +22404,24 @@
 		"MOH Area":"Vavuniya North", 
 		"Name of the Pharmacy":"Indrajith Pharmacy", 
 		"Address":"C14, New Bus Stand Complex, Nedunkerny", 
-		"Contact No":"242,053,019", 
+		"Contact No":"242053019", 
 		"Pharmacist Name":"K. Rajini", 
 		"Owner":"Sinthu Sooriakumar", 
-		"Whatsapp No":"774,445,335", 
-		"Viber No":"774,445,335", 
+		"Whatsapp No":"774445335", 
+		"Viber No":"774445335", 
 		"E mail":"sniruban90@yahoo.com"
+	},
+	{
+		"No":"1,766", 
+		"District":"Gampaha", 
+		"MOH Area":"Ja-ela", 
+		"Name of the Pharmacy":"Calvary Medicals", 
+		"Address":"No - 26A, St. Mary’s Road, Ja-Ela", 
+		"Contact No":"113038296", 
+		"Pharmacist Name":"Shelton Kandewatte", 
+		"Owner":"Shelton Kandewatte", 
+		"Whatsapp No":"705946402", 
+		"Viber No":"705946402", 
+		"E mail":"calvary_medicals@yahoo.com"
 	}
 ]
