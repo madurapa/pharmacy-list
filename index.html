@@ -49,12 +49,8 @@
                         <li>WhatsApp හෝ Viber හරහා එම අංකයට බෙහෙත් වට්ටෝරුව සමග නිවසේ ලිපිනය යවන්න.</li>
                         <li>අන්තර්ජාලය හරහා හෝ බෙහෙත් ගෙදරට ගෙන දුන් පසු මුදල් ගෙවන්න.</li>
                     </ol>
-                    <p>ඖෂධ මගින් ජනතාව ගසා කන හෝ රැවටීමට ලක් කරන පෞද්ගලික ඔසුසල් ඇත්නම්
-                        <a href="tel:+94112698896">+94112698896</a> යන හදිසි ඇමතුම් අංකයට දැනුම් දෙන්නැයි ජාතික ඖෂධ අධිකාරිය විශේෂ ඉල්ලීමක් කරයි.
-                    </p>
-                    <p>සැ.යු - මෙහි තිබෙන දත්ත කළමනාකරණය කිරීම සෞඛ්‍ය සහ දේශීය වෛද්‍ය ‍සේවා අමාත්‍යාංශය මගින් සිදු කරන අතර දත්ත නිතර යාවත්කාලීන වේ. ඔබට ලඟම පිහිටි ඔසුසල සොයා ගැනීමට අපහසු නම් පසුව උත්සාහ කර බලන්න.
-                        <small>[<a href="http://bit.ly/slpharm">දත්ත මූලාශ්‍රය</a>] [<a href="http://www.health.gov.lk/">නිළ වෙබ් අඩවිය</a>]</small>
-                    </p>
+
+
                 </div>
             </div>
         </div>
@@ -84,13 +80,44 @@
     </table>
     <footer class="container">
         <p style="height: 50px;">&nbsp;</p>
+        <p class="text-center">සැ.යු - මෙහි තිබෙන දත්ත කළමනාකරණය කිරීම සෞඛ්‍ය සහ දේශීය වෛද්‍ය ‍සේවා අමාත්‍යාංශය මගින් සිදු කරන අතර දත්ත නිතර යාවත්කාලීන වේ. ඔබට ලඟම පිහිටි ඔසුසල සොයා ගැනීමට අපහසු නම් පසුව උත්සාහ කර බලන්න.
+            <small>[<a target="_blank" href="http://bit.ly/slpharm">දත්ත මූලාශ්‍රය</a>] [<a target="_blank" href="http://www.health.gov.lk/">නිළ වෙබ් අඩවිය</a>]</small>
+        </p>
         <p class="text-center">2020 made with
             <img src="https://cdn.countryflags.com/thumbs/sri-lanka/flag-heart-3d-250.png" width="16px">
             (<a href="https://github.com/madurapa/pharmacy-list" target="_blank">source code</a>)</p>
     </footer>
 </main>
+
+<!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title text-center" id="exampleModalLabel">නිවේදනය</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p>
+                    කරුණාකර ඔසුසල් වල WhatsApp හෝ Viber අංක වලට ඇමතුම් ගැනීමෙන් වලකින්න. ඔබගේ ඇනවුම එක් ඔසුසලකට පමණක් යොමු කරන්න. පවතින කාර්යය බහුල තත්වය මත ඔබේ ඇනවුම තරමක් පමා විය හැක.
+                </p>
+                <p>ඖෂධ මගින් ජනතාව ගසා කන හෝ රැවටීමට ලක් කරන පෞද්ගලික ඔසුසල් ඇත්නම්
+                    <a href="tel:+94112698896">+94112698896</a> යන හදිසි ඇමතුම් අංකයට දැනුම් දෙන්නැයි ජාතික ඖෂධ අධිකාරිය විශේෂ ඉල්ලීමක් කරයි.
+                </p>
+            </div>
+            <!--<div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary">Save changes</button>
+            </div>-->
+        </div>
+    </div>
+</div>
+
 </body>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="https://cdn.datatables.net/v/bs4/dt-1.10.20/datatables.min.js"></script>
 <script type="text/javascript" src="https://cdn.datatables.net/1.10.20/js/dataTables.bootstrap4.min.js"></script>
 <!--<script type="text/javascript" src="https://cdn.datatables.net/fixedheader/3.1.6/js/dataTables.fixedHeader.min.js"></script>-->
@@ -98,6 +125,8 @@
 <script type="text/javascript" src="https://cdn.datatables.net/responsive/2.2.3/js/responsive.bootstrap.min.js"></script>
 <script>
     $(document).ready(function () {
+
+        $('#myModal').modal();
 
         $('#example thead tr:eq(1) th').each(function () {
             var title = $(this).text();
