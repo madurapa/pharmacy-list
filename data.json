@@ -23163,5 +23163,31 @@
 		"Whatsapp No":"760,176,690", 
 		"Viber No":"N/A", 
 		"E mail":"N/A"
+	},
+	{
+		"No":"1,825", 
+		"District":"Colombo", 
+		"MOH Area":"CMC", 
+		"Name of the Pharmacy":"Unichemist Pvt ltd", 
+		"Address":"347,Gall re,Colombo 06", 
+		"Contact No":"768899996", 
+		"Pharmacist Name":"R Devadas", 
+		"Owner":"M.Sathees", 
+		"Whatsapp No":"N/A", 
+		"Viber No":"N/A", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"N/A", 
+		"District":"Kegalle", 
+		"MOH Area":"N/A", 
+		"Name of the Pharmacy":"N/A", 
+		"Address":"N/A", 
+		"Contact No":"N/A", 
+		"Pharmacist Name":"N/A", 
+		"Owner":"N/A", 
+		"Whatsapp No":"N/A", 
+		"Viber No":"N/A", 
+		"E mail":"N/A"
 	}
 ]
