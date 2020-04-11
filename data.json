@@ -701,6 +701,58 @@
 		"E mail":"N/A"
 	},
 	{
+		"No":"53", 
+		"District":"Anuradhapura", 
+		"MOH Area":"MC  Anuradhapura", 
+		"Name of the Pharmacy":"Eiffel Pharmacy", 
+		"Address":"No152/a,b,M,Mailagas Junction, Anuradhapura", 
+		"Contact No":"772538777", 
+		"Pharmacist Name":"N/A", 
+		"Owner":"D.M.T. Ayesha Tharangani", 
+		"Whatsapp No":"710720720", 
+		"Viber No":"N/A", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"54", 
+		"District":"Anuradhapura", 
+		"MOH Area":"MC  Anuradhapura", 
+		"Name of the Pharmacy":"Isiwara Pharmacy", 
+		"Address":"No.09, Kada 50,Anuradhapura", 
+		"Contact No":"712349748", 
+		"Pharmacist Name":"N/A", 
+		"Owner":"P.P. A. Kumarasingha", 
+		"Whatsapp No":"716078985", 
+		"Viber No":"N/A", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"55", 
+		"District":"Anuradhapura", 
+		"MOH Area":"MC  Anuradhapura", 
+		"Name of the Pharmacy":"New City Pharmacy", 
+		"Address":"Dahaiyagama, Anuradhapura", 
+		"Contact No":"726633196", 
+		"Pharmacist Name":"N/A", 
+		"Owner":"M.C.Ilmudeen", 
+		"Whatsapp No":"718653120", 
+		"Viber No":"N/A", 
+		"E mail":"N/A"
+	},
+	{
+		"No":"56", 
+		"District":"Anuradhapura", 
+		"MOH Area":"MC  Anuradhapura", 
+		"Name of the Pharmacy":"Saveesa Pharmacy", 
+		"Address":"No. 641, Airport Road, Anuradhapura", 
+		"Contact No":"714612906", 
+		"Pharmacist Name":"N/A", 
+		"Owner":"H.P.S. Unisiya", 
+		"Whatsapp No":"716903344", 
+		"Viber No":"N/A", 
+		"E mail":"N/A"
+	},
+	{
 		"No":"1,523", 
 		"District":"Anuradhapura", 
 		"MOH Area":"MC Anuradhapura", 
@@ -1074,58 +1126,6 @@
 		"Pharmacist Name":"N/A", 
 		"Owner":"P.W. Thilakarathna", 
 		"Whatsapp No":"716402904", 
-		"Viber No":"N/A", 
-		"E mail":"N/A"
-	},
-	{
-		"No":"53", 
-		"District":"Anuradhapura", 
-		"MOH Area":"MC  Anuradhapura", 
-		"Name of the Pharmacy":"Eiffel Pharmacy", 
-		"Address":"No152/a,b,M,Mailagas Junction, Anuradhapura", 
-		"Contact No":"772538777", 
-		"Pharmacist Name":"N/A", 
-		"Owner":"D.M.T. Ayesha Tharangani", 
-		"Whatsapp No":"710720720", 
-		"Viber No":"N/A", 
-		"E mail":"N/A"
-	},
-	{
-		"No":"54", 
-		"District":"Anuradhapura", 
-		"MOH Area":"MC  Anuradhapura", 
-		"Name of the Pharmacy":"Isiwara Pharmacy", 
-		"Address":"No.09, Kada 50,Anuradhapura", 
-		"Contact No":"712349748", 
-		"Pharmacist Name":"N/A", 
-		"Owner":"P.P. A. Kumarasingha", 
-		"Whatsapp No":"716078985", 
-		"Viber No":"N/A", 
-		"E mail":"N/A"
-	},
-	{
-		"No":"55", 
-		"District":"Anuradhapura", 
-		"MOH Area":"MC  Anuradhapura", 
-		"Name of the Pharmacy":"New City Pharmacy", 
-		"Address":"Dahaiyagama, Anuradhapura", 
-		"Contact No":"726633196", 
-		"Pharmacist Name":"N/A", 
-		"Owner":"M.C.Ilmudeen", 
-		"Whatsapp No":"718653120", 
-		"Viber No":"N/A", 
-		"E mail":"N/A"
-	},
-	{
-		"No":"56", 
-		"District":"Anuradhapura", 
-		"MOH Area":"MC  Anuradhapura", 
-		"Name of the Pharmacy":"Saveesa Pharmacy", 
-		"Address":"No. 641, Airport Road, Anuradhapura", 
-		"Contact No":"714612906", 
-		"Pharmacist Name":"N/A", 
-		"Owner":"H.P.S. Unisiya", 
-		"Whatsapp No":"716903344", 
 		"Viber No":"N/A", 
 		"E mail":"N/A"
 	},
@@ -3975,6 +3975,19 @@
 		"Whatsapp No":"714094154", 
 		"Viber No":"714094154", 
 		"E mail":"N/A"
+	},
+	{
+		"No":"225", 
+		"District":"Colombo", 
+		"MOH Area":"Homagama", 
+		"Name of the Pharmacy":"Janadeepa Pharmacy", 
+		"Address":"172/3, Hospital Junction, Homagama", 
+		"Contact No":"714119288", 
+		"Pharmacist Name":"K.A. Sunil", 
+		"Owner":"Amila Prabath Sirisena", 
+		"Whatsapp No":"714119288", 
+		"Viber No":"714119288", 
+		"E mail":"amilaprabhath.sa@gmail.com"
 	},
 	{
 		"No":"226", 
@@ -23241,18 +23254,5 @@
 		"Whatsapp No":"774445335", 
 		"Viber No":"774445335", 
 		"E mail":"sniruban90@yahoo.com"
-	},
-	{
-		"No":"225", 
-		"District":"Colombo", 
-		"MOH Area":"Homagama", 
-		"Name of the Pharmacy":"Janadeepa Pharmacy", 
-		"Address":"172/3, Hospital Junction, Homagama", 
-		"Contact No":"714119288", 
-		"Pharmacist Name":"K.A. Sunil", 
-		"Owner":"N/A", 
-		"Whatsapp No":"714119288", 
-		"Viber No":"714119288", 
-		"E mail":"N/A"
 	}
 ]
