@@ -23441,13 +23441,26 @@
 		"No":"1,844", 
 		"District":"Gampaha", 
 		"MOH Area":"Negombo", 
-		"Name of the Pharmacy":"N/A", 
-		"Address":"N/A", 
+		"Name of the Pharmacy":"Food City -Negombo2", 
+		"Address":"266, Colombo Road, Negombo", 
 		"Contact No":"N/A", 
-		"Pharmacist Name":"N/A", 
-		"Owner":"N/A", 
-		"Whatsapp No":"N/A", 
+		"Pharmacist Name":"T.M.T.M.Ekanayake", 
+		"Owner":"Cargills Foods Company", 
+		"Whatsapp No":"772568728", 
 		"Viber No":"N/A", 
-		"E mail":"N/A"
+		"E mail":"fc.negombo2@cargillsceylon.com"
+	},
+	{
+		"No":"1,845", 
+		"District":"Gampaha", 
+		"MOH Area":"Ragama", 
+		"Name of the Pharmacy":"Food City -Ragama", 
+		"Address":"15, Peralanda Mawatha, Ragama", 
+		"Contact No":"N/A", 
+		"Pharmacist Name":"MS. T.S.M. Liyanage", 
+		"Owner":"Cargills Foods Company", 
+		"Whatsapp No":"718780245", 
+		"Viber No":"N/A", 
+		"E mail":"fc.ragama@cargillsceylon.com"
 	}
 ]
