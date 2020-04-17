@@ -23345,5 +23345,31 @@
 		"Whatsapp No":"774445335", 
 		"Viber No":"774445335", 
 		"E mail":"sniruban90@yahoo.com"
+	},
+	{
+		"No":"1,837", 
+		"District":"Badulla", 
+		"MOH Area":"Badulla", 
+		"Name of the Pharmacy":"Food City -Badulla", 
+		"Address":"18, Dharma Dutha Road, Badulla", 
+		"Contact No":"N/A", 
+		"Pharmacist Name":"K.P.C.Wijerathna", 
+		"Owner":"Cargills Foods Company", 
+		"Whatsapp No":"779404997", 
+		"Viber No":"N/A", 
+		"E mail":"fc.badulla@cargillsceylon.com"
+	},
+	{
+		"No":"1,838", 
+		"District":"Badulla", 
+		"MOH Area":"Welimada", 
+		"Name of the Pharmacy":"N/A", 
+		"Address":"N/A", 
+		"Contact No":"N/A", 
+		"Pharmacist Name":"N/A", 
+		"Owner":"N/A", 
+		"Whatsapp No":"N/A", 
+		"Viber No":"N/A", 
+		"E mail":"N/A"
 	}
 ]
