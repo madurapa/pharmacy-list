@@ -6538,6 +6538,19 @@
 		"E mail":"fc.galle2@cargillsceylon.com"
 	},
 	{
+		"No":"1,885", 
+		"District":"Galle", 
+		"MOH Area":"Galle", 
+		"Name of the Pharmacy":"Star Pharmacy", 
+		"Address":"387, Matara road, Katugoda, Galle", 
+		"Contact No":"N/A", 
+		"Pharmacist Name":"Ainul Shazira", 
+		"Owner":"N/A", 
+		"Whatsapp No":"776216963", 
+		"Viber No":"776216963", 
+		"E mail":"N/A"
+	},
+	{
 		"No":"1,557", 
 		"District":"Galle", 
 		"MOH Area":"Galle MC", 
@@ -11060,6 +11073,19 @@
 		"Whatsapp No":"788706184", 
 		"Viber No":"N/A", 
 		"E mail":"madurawalarajira@gmail.com"
+	},
+	{
+		"No":"1,884", 
+		"District":"Gampaha", 
+		"MOH Area":"Seeduwa", 
+		"Name of the Pharmacy":"Ken health and pharma Pvt ltd", 
+		"Address":"No 20/54 Dr dydni premathirathne mawatha,mukalangamuwa, seeduwa", 
+		"Contact No":"N/A", 
+		"Pharmacist Name":"N/A", 
+		"Owner":"SuranJan de Silva", 
+		"Whatsapp No":"777627629", 
+		"Viber No":"N/A", 
+		"E mail":"N/A"
 	},
 	{
 		"No":"503", 
@@ -23943,31 +23969,5 @@
 		"Whatsapp No":"774445335", 
 		"Viber No":"774445335", 
 		"E mail":"sniruban90@yahoo.com"
-	},
-	{
-		"No":"1,884", 
-		"District":"Gampaha", 
-		"MOH Area":"Seeduwa", 
-		"Name of the Pharmacy":"Ken health and pharma Pvt ltd", 
-		"Address":"No 20/54 Dr dydni premathirathne mawatha,mukalangamuwa, seeduwa", 
-		"Contact No":"N/A", 
-		"Pharmacist Name":"N/A", 
-		"Owner":"SuranJan de Silva", 
-		"Whatsapp No":"777627629", 
-		"Viber No":"N/A", 
-		"E mail":"N/A"
-	},
-	{
-		"No":"1,885", 
-		"District":"Galle", 
-		"MOH Area":"Galle", 
-		"Name of the Pharmacy":"Star Pharmacy", 
-		"Address":"387, Matara road, Katugoda, Galle", 
-		"Contact No":"N/A", 
-		"Pharmacist Name":"N/A", 
-		"Owner":"N/A", 
-		"Whatsapp No":"N/A", 
-		"Viber No":"N/A", 
-		"E mail":"N/A"
 	}
 ]
